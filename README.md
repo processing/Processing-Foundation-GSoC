@@ -10,8 +10,7 @@ Processing is participating again in [Google Summer of Code](https://summerofcod
 * [Google Summer of Code website](https://summerofcode.withgoogle.com/)
 * [Processing Foundation GSoC Page](https://summerofcode.withgoogle.com/programs/2023/organizations/processing-foundation)
 * [Processing Forum](https://discourse.processing.org/c/summer-of-code) for guidance on developing proposals
-* [Application and Eligibility](https://summerofcode.withgoogle.com/get-started/) - Applications for GSoC contributors
-open March 20 to April 4 2023
+* [Application and Eligibility](https://summerofcode.withgoogle.com/get-started/)
 
 _**If you have questions about an idea or need guidance on forming your proposal, please post to the [Processing Forum](https://discourse.processing.org/c/summer-of-code). This is the best way to get feedback and develop your idea. This makes it possible for everyone to learn from your questions and contribute their thoughts.**_
 
