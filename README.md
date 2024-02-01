@@ -17,6 +17,7 @@ _**If you have questions about an idea or need guidance on forming your proposal
 ### Previous year GSOC reports
 The Processing Foundation participated in GSoC from 2011-2015 and 2017-2021. To get a sense of the kinds of project we work on via GSOC, take a look at these reports.
 
+* [GSOC 2023 wrap-up post](https://medium.com/@ProcessingOrg/google-summer-of-code-2023-wrap-ups-961f73edcd1b)
 * [GSOC 2022 wrap-up post](https://medium.com/@ProcessingOrg/google-summer-of-code-2022-wrap-up-post-cb64caa840f0?source=rss------programming-5)
 * [Processing Foundation articles about GSoC (pre-2022)](https://medium.com/processing-foundation/pfgsoc/home)
 * [GSOC 2021 wrap-up post](https://medium.com/processing-foundation/wrap-up-post-of-all-2021-google-summer-of-code-projects-d3bcb8713ebb)
