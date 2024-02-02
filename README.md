@@ -15,7 +15,7 @@ This repository is a central hub for all resources, project ideas, and guideline
 For more information, read the [Google Summer of Code FAQ](https://developers.google.com/open-source/gsoc/faq).
 
 ### Previous year GSOC reports
-The Processing Foundation participated in GSoC from 2011-2015 and 2017-2021. To get a sense of the kinds of project we work on via GSOC, take a look at these reports.
+The Processing Foundation participated in GSoC from 2011-2015 and 2017-2023. To get a sense of the kinds of project we work on via GSoC, take a look at these reports.
 
 * [GSOC 2023 wrap-up post](https://medium.com/@ProcessingOrg/google-summer-of-code-2023-wrap-ups-961f73edcd1b)
 * [GSOC 2022 wrap-up post](https://medium.com/@ProcessingOrg/google-summer-of-code-2022-wrap-up-post-cb64caa840f0?source=rss------programming-5)
