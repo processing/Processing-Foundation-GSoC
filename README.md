@@ -4,22 +4,13 @@ This repository is a central hub for all resources, project ideas, and guideline
 
 ## How to Apply as a Student/Contributor?
 
-1. Read our [project ideas list](https://github.com/processing/Processing-Foundation-GSoC/wiki/Project-Ideas-List-(GSoC-2024))
-2. Ask any questions you may have via the ["GSoC" category on the Processing Forum](https://discourse.processing.org/c/summer-of-code).
-3. Draft a proposal. You can use the [GSoC proposal template from Berkman Klein Center](https://cyber.harvard.edu/gsoc/Application_Template) as a reference.
-4. Apply via the [Google Summer of Code portal](https://summerofcode.withgoogle.com/).
+1. Consult the [GSoC Contributor Agreement](https://summerofcode.withgoogle.com/terms/contributor) to verify that you are elligible to participate.
+2. Read our [project ideas list](https://github.com/processing/Processing-Foundation-GSoC/wiki/Project-Ideas-List-(GSoC-2024)).
+3. For guidance on developing proposals ask in the ["GSoC" category on the Processing Forum](https://discourse.processing.org/c/summer-of-code). This is the best way to get feedback and develop your idea. This makes it possible for everyone to learn from your questions and contribute their thoughts.
+4. Draft a proposal. You can use the [GSoC proposal template from Berkman Klein Center](https://cyber.harvard.edu/gsoc/Application_Template) as a reference.
+5. Apply via the [Google Summer of Code portal](https://summerofcode.withgoogle.com/).
 
-## About GSoC at the Processing Foundation
-
-The Processing Foundation works each summer with students who are interested in contributing to open source. 
-
-Processing is participating again in [Google Summer of Code](https://summerofcode.withgoogle.com/) for 2024. Here is how to apply.
-* [Google Summer of Code website](https://summerofcode.withgoogle.com/)
-* [Processing Foundation GSoC Page](https://summerofcode.withgoogle.com/programs/2023/organizations/processing-foundation)
-* [Processing Forum](https://discourse.processing.org/c/summer-of-code) for guidance on developing proposals
-* [Application and Eligibility](https://summerofcode.withgoogle.com/get-started/)
-
-_**If you have questions about an idea or need guidance on forming your proposal, please post to the [Processing Forum](https://discourse.processing.org/c/summer-of-code). This is the best way to get feedback and develop your idea. This makes it possible for everyone to learn from your questions and contribute their thoughts.**_
+For more information, read the [Google Summer of Code FAQ](https://developers.google.com/open-source/gsoc/faq).
 
 ### Previous year GSOC reports
 The Processing Foundation participated in GSoC from 2011-2015 and 2017-2021. To get a sense of the kinds of project we work on via GSOC, take a look at these reports.
