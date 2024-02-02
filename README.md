@@ -10,7 +10,7 @@ This repository is a central hub for all resources, project ideas, and guideline
 1. Draft a proposal (You can use the [GSoC proposal template from Berkman Klein Center](https://cyber.harvard.edu/gsoc/Application_Template) as a reference).
 1. Apply via the [Google Summer of Code portal](https://summerofcode.withgoogle.com/).
 
-**For guidance on developing proposals ask in the ["GSoC" category on the Processing Forum](https://discourse.processing.org/c/summer-of-code). This is the best way to get feedback and develop your idea, and it allows others to learn from your questions and contribute their own thoughts.**
+**For guidance on developing proposals ask in the ["GSoC" category on the Processing Forum](https://discourse.processing.org/c/summer-of-code).** _This is the best way to get feedback and develop your idea, and it allows others to learn from your questions and contribute their own thoughts._
 
 For more information, read the [Google Summer of Code FAQ](https://developers.google.com/open-source/gsoc/faq).
 
