@@ -31,4 +31,4 @@ The Processing Foundation participated in GSoC from 2011 to 2015 and 2017 to 202
 
 ## AI text generation policy
 
-Using LLMs like ChatGPT can enhance your writing by refining language and structure. However, the ideas and knowledge in your proposal must originate from **you**. AI serves as a support tool, not a substitute for human creativity. We value your originality and problem understanding. **Proposals generated entirely by AI will not be considered.**
+Using LLMs like ChatGPT can enhance your writing by refining language and structure. However, the ideas and knowledge in your proposal must originate from _you_. AI serves as a support tool, not a substitute for human creativity. We value your originality and problem understanding. **Proposals generated entirely by AI will not be considered.**
