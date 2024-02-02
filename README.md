@@ -2,6 +2,13 @@
 
 This repository is a central hub for all resources, project ideas, and guidelines related to the Google Summer of Code (GSoC) program at the Processing Foundation
 
+## How to Apply as a Student/Contributor?
+
+1. Read our [project ideas list](https://github.com/processing/Processing-Foundation-GSoC/wiki/Project-Ideas-List-(GSoC-2024))
+2. Ask any questions you may have via the ["GSoC" category on the Processing Forum](https://discourse.processing.org/c/summer-of-code).
+3. Draft a proposal. You can use the [GSoC proposal template from Berkman Klein Center](https://cyber.harvard.edu/gsoc/Application_Template) as a reference.
+4. Apply via the [Google Summer of Code portal](https://summerofcode.withgoogle.com/).
+
 ## About GSoC at the Processing Foundation
 
 The Processing Foundation works each summer with students who are interested in contributing to open source. 
@@ -28,11 +35,3 @@ The Processing Foundation participated in GSoC from 2011-2015 and 2017-2021. To 
 * [Processing Foundation GSOC Page](https://processingfoundation.org/advocacy/google-summer-of-code)
 * [Archived GSOC 2014](http://shiffman.net/2014/11/01/gsoc-2014/)
 * [Archived GSOC 2013](http://shiffman.net/2013/09/24/gsoc/)
-
-## How to Contribute?
-
-Read our [project ideas list](https://github.com/processing/Processing-Foundation-GSoC/wiki/Project-Ideas-List-(GSoC-2024)).
-
-## How to Apply as a Student/Contributor?
-
-Apply via the [Google Summer of Code portal](https://summerofcode.withgoogle.com/).
