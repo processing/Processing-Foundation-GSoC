@@ -14,8 +14,8 @@ This repository is a central hub for all resources, project ideas, and guideline
 
 For more information, read the [Google Summer of Code FAQ](https://developers.google.com/open-source/gsoc/faq).
 
-## Previous year GSoC reports
-The Processing Foundation participated in GSoC from 2011-2015 and 2017-2023. To get a sense of the kinds of project we work on via GSoC, take a look at these reports.
+## Discover previous GSoC projects at the Processing Foundation
+The Processing Foundation participated in GSoC from 2011 to 2015 and 2017 to 2023. We recommend you review some of these reports to gain valuable insights in the kind of projects we support. This will help you craft more effective proposals for this year's GSoC at the Processing Foundation.
 
 * [GSOC 2023 wrap-up post](https://medium.com/@ProcessingOrg/google-summer-of-code-2023-wrap-ups-961f73edcd1b)
 * [GSOC 2022 wrap-up post](https://medium.com/@ProcessingOrg/google-summer-of-code-2022-wrap-up-post-cb64caa840f0?source=rss------programming-5)
@@ -28,3 +28,7 @@ The Processing Foundation participated in GSoC from 2011-2015 and 2017-2023. To 
 * [Processing Foundation GSOC Page](https://processingfoundation.org/advocacy/google-summer-of-code)
 * [Archived GSOC 2014](http://shiffman.net/2014/11/01/gsoc-2014/)
 * [Archived GSOC 2013](http://shiffman.net/2013/09/24/gsoc/)
+
+## AI text generation policy
+
+Using LLMs like ChatGPT can enhance your writing by refining language and structure. However, the ideas and knowledge in your proposal must originate from **you**. AI serves as a support tool, not a substitute for human creativity. We value your originality and problem understanding. **Proposals generated entirely by AI will not be considered.**
