@@ -6,7 +6,7 @@ This repository is a central hub for all resources, project ideas, and guideline
 
 1. Read the [GSoC Contributor Agreement](https://summerofcode.withgoogle.com/terms/contributor) to check that you are elligible to participate.
 1. Consult the [GSoC timeline](https://developers.google.com/open-source/gsoc/timeline) and take note of the application deadline.
-1. Explore our ✨💡[project ideas list](https://github.com/processing/Processing-Foundation-GSoC/wiki/Project-Ideas-List-(GSoC-2024))💡✨ and pick a project you would like to contribute to.
+1. Explore our ✨💡[**project ideas list**](https://github.com/processing/Processing-Foundation-GSoC/wiki/Project-Ideas-List-(GSoC-2024))💡✨ and pick a project you would like to contribute to.
 1. Draft a proposal (You can use the [GSoC proposal template from Berkman Klein Center](https://cyber.harvard.edu/gsoc/Application_Template) as a reference).
 1. Apply via the [Google Summer of Code portal](https://summerofcode.withgoogle.com/).
 
