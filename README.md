@@ -2,7 +2,9 @@
 
 This repository is a central hub for all resources, project ideas, and guidelines related to the Google Summer of Code (GSoC) program at the Processing Foundation
 
-## How to Apply as a Student/Contributor?
+🌸 Have questions about the organization or the projects? Check out the [GSoC 2025 Discourse thread](https://discourse.processing.org/t/suggestions-for-new-contributors-gsoc-2025/45641)! 🌸
+
+## How to Apply as a Student/Contributor for GSoC 2025?
 
 1. Read the [GSoC Contributor Agreement](https://summerofcode.withgoogle.com/terms/contributor) to check that you are elligible to participate.
 1. Consult the [GSoC timeline](https://developers.google.com/open-source/gsoc/timeline) and take note of the application deadline.
