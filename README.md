@@ -4,6 +4,8 @@ This repository is a central hub for all resources, project ideas, and guideline
 
 🌸 Have questions about the organization or the projects? Check out the [GSoC 2025 Discourse thread](https://discourse.processing.org/t/suggestions-for-new-contributors-gsoc-2025/45641)! 🌸
 
+🌼 We're keeping the [**Frequently Asked Questions (FAQs)**](https://github.com/processing/Processing-Foundation-GSoC/wiki/FAQs) resource up-to-date with questions people have been asking, so if the thread is a bit too much to read through, start with the FAQs! 🌼 
+
 ## How to Apply as a Student/Contributor for GSoC 2025?
 
 1. Read the [GSoC Contributor Agreement](https://summerofcode.withgoogle.com/terms/contributor) to check that you are elligible to participate.
