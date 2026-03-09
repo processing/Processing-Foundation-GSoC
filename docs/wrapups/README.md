@@ -2,6 +2,14 @@
 
 Archived from Medium and processingfoundation.org.
 
+## Limitations 
+
+Some images, links, and bullet point lists may be missing due to limitations of the archiving process. 
+
+Some links point to archived versions of the original content even if the original content is still available.
+
+Manual review and editing will be necessary to restore missing content.
+
 ## Available Archives
 
 Each archive includes the full article text in markdown, with images. 
