@@ -6,9 +6,14 @@ Strategy:
 1. Try Medium RSS feeds first (returns full HTML content, recent posts only)
 2. Fall back to Wayback Machine for older posts not in RSS
 
-Usage: python3 scripts/archive_medium_wrapups.py
+Usage:
+  python3 scripts/archive_medium_wrapups.py             # full archive (default)
+  python3 scripts/archive_medium_wrapups.py --text-only    # fetch & convert text, skip image downloads
+  python3 scripts/archive_medium_wrapups.py --images-only  # (re)download images for existing .md files
+  python3 scripts/archive_medium_wrapups.py --readme-only  # regenerate README from existing .md files
 """
 
+import argparse
 import os
 import re
 import sys
@@ -608,15 +613,18 @@ def download_images(html, year):
 
 # ── Article archiver ───────────────────────────────────────────────────────────
 
-def archive_article(year, title, content_html, pub_date):
+def archive_article(year, title, content_html, pub_date, skip_images=False):
     slug, canonical_url, _ = WRAPUPS[year]
     out_file = OUTPUT_DIR / f"{year}-gsoc-wrapup.md"
 
-    print(f"  Downloading images for {year}...")
-    image_map = download_images(content_html, year)
+    if skip_images:
+        img_callback = None
+    else:
+        print(f"  Downloading images for {year}...")
+        image_map = download_images(content_html, year)
 
-    def img_callback(src):
-        return image_map.get(src, src)
+        def img_callback(src):
+            return image_map.get(src, src)
 
     print(f"  Converting HTML to Markdown...")
     body_md = html_to_markdown(content_html, img_callback=img_callback)
@@ -680,7 +688,7 @@ status: "not-archived"
 # ── Index generator ────────────────────────────────────────────────────────────
 
 def generate_index(archived, missing):
-    index_file = OUTPUT_DIR / "index.md"
+    index_file = OUTPUT_DIR / "README.md"
     archived_today = date.today().isoformat()
 
     lines = [
@@ -691,8 +699,8 @@ def generate_index(archived, missing):
         "",
         "## Available Archives",
         "",
-        "| Year | Title | Status |",
-        "|------|-------|--------|",
+        "| Year | Title |",
+        "|------|-------|",
     ]
 
     for year in sorted(WRAPUPS.keys(), reverse=True):
@@ -700,17 +708,11 @@ def generate_index(archived, missing):
         md_file = f"{year}-gsoc-wrapup.md"
         if year in archived:
             title = archived[year]
-            lines.append(f"| {year} | [{title}]({md_file}) | ✅ Archived |")
+            lines.append(f"| {year} | [{title}]({md_file}) |")
         else:
-            lines.append(f"| {year} | [GSoC {year} Wrap-Up]({md_file}) | ⚠️ Stub only — [original]({canonical_url}) |")
+            lines.append(f"| {year} | [GSoC {year} Wrap-Up (stub)]({md_file}) |")
 
     lines += [
-        "",
-        "## Notes",
-        "",
-        "- Articles marked ✅ are fully archived with local images.",
-        "- Articles marked ⚠️ were not available and only have stubs.",
-        "  Visit the original URL to read the article.",
         "",
         "## Source URLs",
         "",
@@ -726,10 +728,8 @@ def generate_index(archived, missing):
 
 # ── Main ───────────────────────────────────────────────────────────────────────
 
-def main():
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    IMAGES_DIR.mkdir(parents=True, exist_ok=True)
-
+def fetch_articles():
+    """Phases 1 & 2: fetch article content from RSS and Wayback. Returns (rss_by_year, wayback_by_year)."""
     # Phase 1: Try Medium RSS feeds (fast, full HTML content)
     print("Phase 1: Fetching Medium RSS feeds...")
     all_items = []
@@ -769,7 +769,11 @@ def main():
             else:
                 print(f"  [{year}] Failed to extract content")
 
-    # Phase 3: Archive all found articles
+    return rss_by_year, wayback_by_year
+
+
+def archive_all(rss_by_year, wayback_by_year, skip_images=False):
+    """Archive all found articles and return (archived, stubbed)."""
     print(f"\nPhase 3: Archiving articles...")
     archived = {}
     stubbed = []
@@ -778,18 +782,90 @@ def main():
         if year in rss_by_year:
             title, content, pub_date = rss_by_year[year]
             print(f"\n[{year}] (RSS) {title[:60]}")
-            archived_title = archive_article(year, title, content, pub_date)
+            archived_title = archive_article(year, title, content, pub_date, skip_images=skip_images)
             archived[year] = archived_title
         elif year in wayback_by_year:
             title, content, pub_date = wayback_by_year[year]
             print(f"\n[{year}] (Wayback) {title[:60]}")
-            archived_title = archive_article(year, title, content, pub_date)
+            archived_title = archive_article(year, title, content, pub_date, skip_images=skip_images)
             archived[year] = archived_title
         else:
             print(f"\n[{year}] Creating stub (no source available)")
             create_stub(year)
             stubbed.append(year)
 
+    return archived, stubbed
+
+
+def readme_from_existing():
+    """Build archived/stubbed dicts by reading existing .md frontmatter, then regenerate README."""
+    archived = {}
+    stubbed = []
+    for year in WRAPUPS:
+        md_file = OUTPUT_DIR / f"{year}-gsoc-wrapup.md"
+        if not md_file.exists():
+            stubbed.append(year)
+            continue
+        text = md_file.read_text(encoding="utf-8")
+        # Check for stub marker
+        if 'status: "not-archived"' in text:
+            stubbed.append(year)
+            continue
+        # Extract title from frontmatter
+        m = re.search(r'^title:\s*"(.+)"', text, re.MULTILINE)
+        archived[year] = m.group(1) if m else f"GSoC {year} Wrap-Up"
+    return archived, stubbed
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Archive GSoC wrap-up posts from Medium as Markdown files."
+    )
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument(
+        "--text-only",
+        action="store_true",
+        help="Fetch and convert article text only; skip image downloads.",
+    )
+    mode.add_argument(
+        "--images-only",
+        action="store_true",
+        help="Re-download images for articles that are already archived.",
+    )
+    mode.add_argument(
+        "--readme-only",
+        action="store_true",
+        help="Regenerate README.md from existing archived .md files without fetching anything.",
+    )
+    args = parser.parse_args()
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    IMAGES_DIR.mkdir(parents=True, exist_ok=True)
+
+    if args.readme_only:
+        print("Regenerating README from existing files...")
+        archived, stubbed = readme_from_existing()
+        generate_index(archived, stubbed)
+        return
+
+    rss_by_year, wayback_by_year = fetch_articles()
+
+    if args.images_only:
+        # Only (re)download images; articles must already exist on disk
+        print("\nDownloading images for existing archived articles...")
+        for year in sorted(WRAPUPS.keys(), reverse=True):
+            source = rss_by_year.get(year) or wayback_by_year.get(year)
+            if not source:
+                print(f"[{year}] No content fetched, skipping.")
+                continue
+            _, content_html, _ = source
+            print(f"\n[{year}] Downloading images...")
+            download_images(content_html, year)
+        return
+
+    archived, stubbed = archive_all(
+        rss_by_year, wayback_by_year, skip_images=args.text_only
+    )
     generate_index(archived, stubbed)
 
     print("\n" + "=" * 60)
