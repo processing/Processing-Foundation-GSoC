@@ -10,27 +10,21 @@ archived: "2026-03-09"
 
 In 2025, the Processing Foundation celebrated its thirteenth year of participation in Google Summer of Code (GSoC)! The primary goal of the GSoC program is to welcome new contributors to open-source software development. Out of a pool of about 150 submissions, 3 outstanding projects were [selected](https://medium.com/@ProcessingOrg/announcing-google-summer-of-code-2025-projects-6463d0e49470) to improve [p5.js](https://p5js.org/) coding experience. Each project was supported by mentors, and culminated in merged code and a public presentation at the [Open Assembly](https://openassembly.processingfoundation.org/) in 2025.
 
-**
-
-Project 1: ******[Context-Aware Autocomplete and Navigation for the p5.js Editor](https://youtu.be/TVIZhfxpnLg?si=nFr-nKhgC-LO7sXl)
+**Project 1: [Context-Aware Autocomplete and Navigation for the p5.js Editor](https://youtu.be/TVIZhfxpnLg?si=nFr-nKhgC-LO7sXl)**
 
 - Contributor: [Kamakshi Bali](https://kamakshi645.medium.com/gsoc25-processing-foundation-final-work-c2069c536ae8)
 - Mentors: [Diya Solanki](https://github.com/diyaayay) and [Tristan Espinoza](https://github.com/tespin)
 
 ![](images/2025/img-001.png)
 
-**
-
-Project 2: ******[Translation Mapping and Accessibility for p5.js](https://youtu.be/kUXVl8kwwZs?si=jVl7ceTPnAbvZW-E)
+**Project 2: [Translation Mapping and Accessibility for p5.js](https://youtu.be/kUXVl8kwwZs?si=jVl7ceTPnAbvZW-E)**
 
 - Contributor: [Divyansh Srivastava](https://www.linkedin.com/in/divyansh013/)
 - Mentors: [Kit Kuksenok](https://xnze.ro/)
 
 ![](images/2025/img-002.png)
 
-**
-
-Project 3: ******[p5.js Sketch Embed Tool for Blogs and Websites](https://youtu.be/7HwWTwmJBcY?si=PVyNOSDycaPx9CPY)
+**Project 3: [p5.js Sketch Embed Tool for Blogs and Websites](https://youtu.be/7HwWTwmJBcY?si=PVyNOSDycaPx9CPY)**
 
 - Contributor: [Ego Nwaekpe](https://www.linkedin.com/in/glory-nwaekpe/)
 - Mentors: [Dora Do](https://www.doradocodes.com/)

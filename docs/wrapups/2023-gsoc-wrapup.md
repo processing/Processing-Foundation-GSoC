@@ -12,33 +12,23 @@ archived: "2026-03-09"
 
 *A graphic of all 8 contributors’ headshots for this year’s GSoC.*
 
-*
-
 This summer, the Processing Foundation celebrates its twelfth year of participation in Google Summer of Code (GSoC)! The primary goal of the GSoC program is to engage fresh talent in the realm of open-source software development. Out of a pool of 91 submissions, 8 outstanding proposals have been chosen in the GSoC program. Continue reading to discover more about the dedicated contributors, compelling projects, and the mentors involved. For additional details, check out the ***[official announcement post from June 2023](/web/20240812042327/https://medium.com/@ProcessingOrg/announcing-google-summer-of-code-2023-projects-75080c1554aa)*.*
 
 Edited by Suhyun Choi and Raphaël de Courville
 
 ## [Justin Wong](https://web.archive.org/web/20240812042327/https://wonger.dev/)— Supporting shader-based filters in p5.js
 
-*
-
 Mentored by ***[Adam Ferriss](https://web.archive.org/web/20240812042327/https://amf.fyi/)*, ***[Austin Slominski](https://web.archive.org/web/20240812042327/https://www.instagram.com/aceslowman/)*, and ***[So Sun Park](https://web.archive.org/web/20240812042327/https://www.instagram.com/sosunnyproject/)
 
-**
+**Current Status:** Complete
 
-Current Status: **Complete
-
-**
-
-Project Description**
+**Project Description**
 
 Justin’s work on p5.js centered around the filter() function because it was too slow and because it wasn’t supported outside of P2D mode. He made it faster by using shaders, which are programs that use the GPU for image processing. Now people can use effects like blur in any mode without noticing such a drop in performance.
 
 There were some secondary accomplishments as well. There’s a new function createFilterShader() that makes writing shaders easier. He helped revise a few documentation pages. He also tried to contribute some benchmarking tools, but that was a bit ambitious.
 
-**
-
-Project Update**
+**Project Update**
 
 1. There should be some refactoring to cut down on all the graphic layers — maybe by using framebuffers, or maybe just by understanding and wrangling the canvases better.
 2. There’s some alternative blur filters being investigated.
@@ -52,27 +42,19 @@ Project Update**
 
 *A comparison of 2D shader code, before and after.*
 
-**
-
-Biography**
+**Biography**
 
 Justin Wong is a programmer from Central Florida. He thinks a lot about designing applications, building happy little web projects, mastering command-line tools, and communicating effectively. He plays sports and does volunteer work in his free time.
 
-**
-
-Links**
+**Links**
 
 - [Work Product Report](https://web.archive.org/web/20240812042327/https://wonger.dev/posts/p5js-shader-filters)
 
 ## [Will Rabalais](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/will-rabalais-28b005216/)— Friendlier Error Messages for Processing
 
-*
-
 Mentored by ***[Sam Pottinger](https://web.archive.org/web/20240812042327/https://gleap.org/)* and ***[Raphaël de Courville](https://web.archive.org/web/20240812042327/https://twitter.com/sableraph)
 
-**
-
-Current Status: **Completed
+**Current Status:** Completed
 
 They began a revamp of the existing Processing error message system so that it is more user friendly and descriptive. Taking inspiration from the [p5.js Friendly Error System (FES)](https://web.archive.org/web/20240812042327/https://github.com/processing/p5.js/blob/main/contributor_docs/friendly_error_system.md), their focus was to replace the pre-existing error messages that were often vague and not easily understood by beginners. They wanted to offer beginners an option to receive longer messages with more context but also not force unwanted explanations of beginner concepts on advanced users.
 
@@ -95,13 +77,9 @@ Will Rabalais is a sophomore studying computer science and mathematics at the Un
 
 ## [Kathryn Lichlyter](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/kathryn-lichlyter-664751189/) — Updating p5js.org Site Documentation and Accessibility
 
-*
-
 Mentored by ***[Caleb Foss](https://web.archive.org/web/20240812042327/https://github.com/calebfoss)* and ***[Paula Isabel Signo](https://web.archive.org/web/20240812042327/https://www.biodrop.io/paulaxisabel)*, advised by ***[Claire Kearney-Volpe](https://web.archive.org/web/20240812042327/https://takinglifeseriously.com/index.html)
 
-**
-
-Current Status: **Some PRs pending merges.
+**Current Status:** Some PRs pending merges.
 
 This summer, Kathryn assisted the Processing Foundation with the navigational and visual accessibility of their [p5.js documentation site](https://web.archive.org/web/20240812042327/https://p5js.org/) by conducting an accessibility audit to gauge the current deficits of the platform, prioritizing what changes and/or additions need to be made to improve accessibility, inclusion, and usability, and seeing those changes through by re-coding and/or re-designing the appropriate aspects of the site. They also contributed a new [learn guide](https://web.archive.org/web/20240812042327/https://p5js.org/learn/) for their ARIA labeling functions to assist with screen reader accessibility.
 
@@ -127,23 +105,19 @@ At this moment, this tutorial is still going through the process of revision, fr
 
 *Annotated screenshot of the tabbing sequence on a p5.js reference page.*
 
-**
-
-Links:**
+**Links:**
 
 - [Work Product Report](https://web.archive.org/web/20240812042327/https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/lichlyter_gsoc_2023.md)
 - [Github Repository](https://web.archive.org/web/20240812042327/https://github.com/katlich112358/p5.js-website-gsoc-2023-v2)
-- **Social media: **[LinkedIn](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/kathryn-lichlyter-664751189/)
+- **Social media: **
+
+[LinkedIn](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/kathryn-lichlyter-664751189/)
 
 ## [Ayush Shankar](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/ayush23dash/)— Friendly Error System and Documentation
 
-*
-
 Mentored by ***[Alice (Alm) Chung](https://web.archive.org/web/20240812042327/https://almchung.github.io/)* and ***[Nick Briz](https://web.archive.org/web/20240812042327/http://nickbriz.com/)
 
-**
-
-Current Status: **One PR pending to be merged
+**Current Status:** One PR pending to be merged
 
 Ayush’s initial proposal revolved around Decoupling Friendly Error System from p5.js which would have involved the following :
 
@@ -159,9 +133,7 @@ The following is a list of issues he created/commented, Pull Requests he created
 
 One of his major topics of research was manually digging into each of the files and functions of FES and maintaining a list and a flow chart for keeping track of the places/files that these FES functions are being used throughout p5.js:
 
-## **Links of FES Functions to where they are being used in p5.js**
-
-**
+## **Links of FES Functions to where they are being used in p5.js****
 
 File Name : validate_params.js**
 
@@ -175,21 +147,15 @@ Function Name : _getValidateParamsArgTree() Files Used in : error_helpers.js
 
 Function Name : _validateParameters() Files Used in : describe.js | outputs.js | creating_reading.js | setting.js | environment.js | rendering.js | transform.js | 2d_primitives.js | attributes.js | curves.js | vertex.js | p5.TypedDict.js | dom.js | acceleration.js | keyboard.js | image.js |loading_displaying.js | p5.image.js | pixels.js | files.js | calculation.js | random.js | trigonometry.js | attributes.js | string_functions.js | 3d_primitives.js | interaction.js | light.js |loading.js | material.js | p5.Camera.js | p5.FrameBuffer.js | error_helpers.js |
 
-**
-
-File Name : stacktrace.js**
+**File Name : stacktrace.js**
 
 Function Name : getErrorStackParser() Files Used in : validate_params.js(FES) | fes_core.js(FES)
 
-**
-
-File Name : file_errors.js**
+**File Name : file_errors.js**
 
 Function Name : _friendlyFileLoadError() Files Used in : fes_core.js(FES) | loading_displaying.js | files.js | loading.js | downloading.js | loadBytes.js | loadImage.js | loadJSON.js | loadModel.js | loadShader.js | loadStrings.js | loadTable.js | loadXML.js | saveTable.js | loadFont.js |
 
-**
-
-File Name : fes_core.js**
+**File Name : fes_core.js**
 
 Function Name : _friendlyError() Files Used in : main.js | file_errors.js(FES) | sketch_reader.js(FES) | validate_params.js(FES) | vertex.js | p5.Vector.js | loading.js | p5.Matrix.js | p5.RendererGL.js | p5.Shader.js | error_helpers.js |
 
@@ -208,18 +174,18 @@ Function Name : helpForMisusedAtTopLevelCode() Files Used in : error_helpers.js
 Ayush Shankar is a 2022 graduate working as a Software Engineer in [GroundTruth](https://web.archive.org/web/20240812042327/https://www.groundtruth.com/) ([Weatherbug](https://web.archive.org/web/20240812042327/https://www.weatherbug.com/)). He has been an avid contributor to Open Source Software throughout the years, in various Open Source organizations. His technical skill set includes : JavaScript, ReactJs, NodeJs, MongoDb, Git/Github, and C#. He has interned at various startups during college and has also contributed to open source organizations like Gnome and [AnitaB.or](https://web.archive.org/web/20240812042327/https://anitab.org/)g. He has had an interesting open source journey which initially started from participating in various hackathons and also building personal projects. Programs like HacktoberFest motivated him to get started with open source software. He has also created a few personal projects that are open to all for contributions. Apart from open source, one of his major areas of interest are hackathons. He has participated in many of them and also has won a few of them. On the sidelines, he also writes blogs on [medium](/web/20240812042327/https://medium.com/@ayush23dash), where he has mentioned some amazing hackathon stories as well as his Google Summer of Code Story!
 
 - [Work Product Report](https://web.archive.org/web/20240812042327/https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/ayush23dash_gsoc_2023.md)
-- **Github Repository**: [p5.js](https://web.archive.org/web/20240812042327/https://github.com/processing/p5.js/tree/main)
-- **Social media: **[LinkedIn](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/ayush23dash/)
+- **Github Repository**
+
+: [p5.js](https://web.archive.org/web/20240812042327/https://github.com/processing/p5.js/tree/main)
+- **Social media: **
+
+[LinkedIn](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/ayush23dash/)
 
 ## [Gaurav Puniya](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/gpuniya/) — Adding AR Image Markers and Migrating VR Library
 
-*
-
 Mentored by ***[Aditya Rana](https://web.archive.org/web/20240812042327/https://www.instagram.com/adityarana814/)* and Andrés Colubri*
 
-**
-
-Current Status: **Finishing this project as part of an extended timeline which ends in November 2022.
+**Current Status:** Finishing this project as part of an extended timeline which ends in November 2022.
 
 AR and VR are an integral part of Processing Android. This project entailed migrating the VR library from Google VR (deprecated in 2019) to Cardboard SDK, and adding Image Marker functionality to PAndroid’s AR library.
 
@@ -247,67 +213,98 @@ For the ARMarkers, [a new discussion](https://web.archive.org/web/20240812042327
 
 *An example of an augmented Image*
 
-**
+**Biography**
 
-Biography  
-**Gaurav Puniya is a final-year undergraduate student at NSUT, Delhi. He has prior experience as an android developer and is pursuing his research work in emotion-recognition through physiological signals. He is a tech enthusiast, exploring the intersection of technology and psyche. In his personal time, he resorts to e-sports and traveling.
+Gaurav Puniya is a final-year undergraduate student at NSUT, Delhi. He has prior experience as an android developer and is pursuing his research work in emotion-recognition through physiological signals. He is a tech enthusiast, exploring the intersection of technology and psyche. In his personal time, he resorts to e-sports and traveling.
 
-**
+**What I learned:**
 
-What I learned:**
+- **Document Everything!**
 
-- **Document Everything!**: There’s never enough documentation to make the world a better place for the next gen of programmers.
-- **It’s okay to be overwhelmed**: With this being my first contribution to such a big organization and I felt overwhelmed with such a huge codebase. Though, I believe that this was a good experience just like your first error, first hello world program and first open-source contribution.
-- **It’s all about collaboration**: Always remember that you are a part of a family when contributing to organizations. Which means, everyone is rooting for you and can actively guide you. All you need to do is raise an issue. ;-)
+: There’s never enough documentation to make the world a better place for the next gen of programmers.
+- **It’s okay to be overwhelmed**
+
+: With this being my first contribution to such a big organization and I felt overwhelmed with such a huge codebase. Though, I believe that this was a good experience just like your first error, first hello world program and first open-source contribution.
+- **It’s all about collaboration**
+
+: Always remember that you are a part of a family when contributing to organizations. Which means, everyone is rooting for you and can actively guide you. All you need to do is raise an issue. ;-)
 
 - [Work Product Report](https://web.archive.org/web/20240812042327/https://github.com/p4puniya/processing-gsoc/blob/main/project_wrapups/gaurav_puniya_gsoc_2023.md)
-- **Github Repository**: [image-markers-and-migrating-vr](https://web.archive.org/web/20240812042327/https://github.com/p4puniya/image-markers-and-migrating-vr)
+- **Github Repository**
+
+: [image-markers-and-migrating-vr](https://web.archive.org/web/20240812042327/https://github.com/p4puniya/image-markers-and-migrating-vr)
 - [Additional Resources](/web/20240812042327/https://medium.com/@gauravpny)
-- **Social media: **[Linkedin](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/gpuniya/)
+- **Social media: **
+
+[Linkedin](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/gpuniya/)
 
 ## Dewansh Thakur — Mobile/Responsive Design Implementation of p5.js Web Editor.
 
-*
-
 Mentored by ***[Linda Paiste](https://web.archive.org/web/20240812042327/https://www.lindapaiste.com/)* and ***[Shuju Lin](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/linshujuuu/)
 
-**
-
-Current Status: **Core functionalities completed, mobile editor completely works
+**Current Status:** Core functionalities completed, mobile editor completely works
 
 This project is dedicated to the enhancement of mobile responsive design implementations for the web editor. The existing editor, prior to this project, is not so usable on smaller screen devices such as mobile phones and tablets. The primary objective of this project is to rectify these issues, ensuring that the editor functions seamlessly on mobile devices. This improvement will allow users to effortlessly view, share, and edit their project code while on the move.
 
 During this project, Dewansh made significant progress in enhancing the mobile responsive design of the web editor. Here’s a summary of what they’ve achieved so far:
 
-1. **Mobile-Friendly Editor:** they successfully made the web editor more usable on smaller screens such as mobile phones and tablets. The editor now adapts to different screen sizes, prioritizing components based on whether the sketch is running or not.
+1. **Mobile-Friendly Editor:**
 
-2. **Editor Component Refactoring:** They converted the editor from a class component to a functional component and improved the autosave logic for better performance and compatibility.
+ they successfully made the web editor more usable on smaller screens such as mobile phones and tablets. The editor now adapts to different screen sizes, prioritizing components based on whether the sketch is running or not.
 
-3. **SideBar Enhancement:** The SideBar component was refactored and made usable on mobile devices, aligning it with the design concepts.
+2. **Editor Component Refactoring:**
 
-4.** Floating Action Button:** They added a Floating Action Button for running and stopping sketches on smaller devices, improving user interaction.
+ They converted the editor from a class component to a functional component and improved the autosave logic for better performance and compatibility.
 
-5. **Mobile Navigation:** They introduced a new navigation component that dynamically displays page titles, adapts menu options, enables sketch name editing, and offers a custom language selection screen for better usability on mobile devices.
+3. **SideBar Enhancement:**
 
-6. **My Stuff Page:** They redesigned the “My Stuff” page to improve its usability on mobile devices, switching from a tabular list to a card-based layout, and adding filter and sort functionality.
+ The SideBar component was refactored and made usable on mobile devices, aligning it with the design concepts.
 
-7. **Login, SignUp, and Account Pages:** They made small adjustments to these pages to ensure they look and function well on smaller screens.
+4.** Floating Action Button:**
 
-8. **Overlays and Modals:** Overlays and modals were improved for mobile devices, providing a native mobile look and feel by expanding to the entire screen.
+ They added a Floating Action Button for running and stopping sketches on smaller devices, improving user interaction.
 
-9. **Codebase Refinements:** They centralized essential logic for editing and saving operations into a dedicated hook, enhancing code reusability.
+5. **Mobile Navigation:**
+
+ They introduced a new navigation component that dynamically displays page titles, adapts menu options, enables sketch name editing, and offers a custom language selection screen for better usability on mobile devices.
+
+6. **My Stuff Page:**
+
+ They redesigned the “My Stuff” page to improve its usability on mobile devices, switching from a tabular list to a card-based layout, and adding filter and sort functionality.
+
+7. **Login, SignUp, and Account Pages:**
+
+ They made small adjustments to these pages to ensure they look and function well on smaller screens.
+
+8. **Overlays and Modals:**
+
+ Overlays and modals were improved for mobile devices, providing a native mobile look and feel by expanding to the entire screen.
+
+9. **Codebase Refinements:**
+
+ They centralized essential logic for editing and saving operations into a dedicated hook, enhancing code reusability.
 
 Looking ahead, here are some future plans and areas for improvement:
 
-1. **Code Sharing Page:** Implement a code sharing page for users to share their projects easily.
+1. **Code Sharing Page:**
 
-2. **Add to Collection Page**: Develop a page where users can add sketches to their collections.
+ Implement a code sharing page for users to share their projects easily.
 
-3. **MobileNav Title:** Consider using props for mobile navigation titles instead of a switch for better flexibility.
+2. **Add to Collection Page**
 
-4. **Language Translations:** Add language translations to some of the newer components for a more inclusive experience.
+: Develop a page where users can add sketches to their collections.
 
-5. **Autosave Feature:** Move the autosave feature to the Editor component for better organization.
+3. **MobileNav Title:**
+
+ Consider using props for mobile navigation titles instead of a switch for better flexibility.
+
+4. **Language Translations:**
+
+ Add language translations to some of the newer components for a more inclusive experience.
+
+5. **Autosave Feature:**
+
+ Move the autosave feature to the Editor component for better organization.
 
 This project has been a valuable learning experience, providing insights into open-source contribution, teamwork, and effective communication. Dewansh is grateful for the mentorship provided by Linda and Shuju, and he is excited to continue contributing to open-source projects in the future.
 
@@ -331,17 +328,15 @@ Dewansh Thakur is a creative web developer and designer. He is currently a third
 
 - [Work Product Report](https://web.archive.org/web/20240812042327/https://blog.dewansh.space/blog/google-summer-of-code-wrap-up)
 - [Github Repository](https://web.archive.org/web/20240812042327/https://github.com/processing/p5.js-web-editor)
-- **Social media: **[Twitter](https://web.archive.org/web/20240812042327/https://twitter.com/ThakurDewansh), [LinkedIn](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/dewanshthakur/), [Github](https://web.archive.org/web/20240812042327/https://github.com/dewanshDT), [Website](https://web.archive.org/web/20240812042327/https://dewansh.space/)
+- **Social media: **
+
+[Twitter](https://web.archive.org/web/20240812042327/https://twitter.com/ThakurDewansh), [LinkedIn](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/dewanshthakur/), [Github](https://web.archive.org/web/20240812042327/https://github.com/dewanshDT), [Website](https://web.archive.org/web/20240812042327/https://dewansh.space/)
 
 ## [Aryan Koundal](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/aryankoundal/)— Improving p5.js WebGL/3D functionality
 
-*
-
 Mentored by ***[Dave Pagurek](https://web.archive.org/web/20240812042327/https://twitter.com/davepvm)* and ***[Tanvi Kumar](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/TanviKumar/)
 
-**
-
-Current Status: **On-going (Large Project)
+**Current Status:** On-going (Large Project)
 
 In p5.js, there are two render modes: P2D (default renderer) and WebGL. WebGL enables the user to draw in 3D. There are many ways to implement lighting. Currently, p5.js has implemented 8. To add lighting to a 3D object, one can use these functionalities. However, there is another technique to light objects, not by direct light, but using the surrounding environment as a single light source, which we call Image-Based Lighting.
 
@@ -369,18 +364,18 @@ There is no plan to make any extensions. Aryan and his mentors feel that the wor
 Aryan Koundal is currently a final-year student at NIT Hamirpur, where he is pursuing a bachelor’s degree in technology in Computer Science and Engineering. He is proficient in Data Structures and Algorithms in C++. He is currently working as a remote developer for the p5.js library through Google Summer of Code 2023. He belongs to Dharamshala Himachal Pradesh, a city known for being home to the world’s highest cricket stadium.
 
 - [Work Product Report](https://web.archive.org/web/20240812042327/https://github.com/processing/p5.js/pull/6442)
-- **Github Repository**: [https://github.com/AryanKoundal/p5.js](https://web.archive.org/web/20240812042327/https://github.com/AryanKoundal/p5.js)
-- **Social media: **[LinkedIn](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/aryan-koundal-5b217b202/)
+- **Github Repository**
+
+: [https://github.com/AryanKoundal/p5.js](https://web.archive.org/web/20240812042327/https://github.com/AryanKoundal/p5.js)
+- **Social media: **
+
+[LinkedIn](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/aryan-koundal-5b217b202/)
 
 ## [Munus Shih](https://web.archive.org/web/20240812042327/https://www.instagram.com/munusshih/)— A Typographic Revamp for p5.js
 
-*
-
 Mentored by ***[Kevin Yeh](https://web.archive.org/web/20240812042327/https://twitter.com/spacetypeco)*, ***[Aren Davey](https://web.archive.org/web/20240812042327/https://twitter.com/albeit_angular)*, and ***[Kenneth Lim](https://web.archive.org/web/20240812042327/https://www.linkedin.com/in/will-rabalais-28b005216/)
 
-**
-
-Current Status: **Completed (But needs more work!)
+**Current Status:** Completed (But needs more work!)
 
 This project aims to improve the typographic section of p5.js library by fixing the issue flag on GitHub, adding new features, developing new examples for typography documentation, and interviewing creative coders for feedback. The goal is to enhance the functionality and versatility of p5.js, and ensure that it remains a valuable tool for creative coders and graphic designers.
 

@@ -8,8 +8,6 @@ archived: "2026-03-09"
 
 # Wrap-Up Post of All 2021 Google Summer of Code Projects
 
-*
-
 This summer was the Processing Foundation’s 10th year participating in Google Summer of Code, where we worked with students on open-source projects focused on different aspects of Processing and p5.js, in areas including accessibility, music and sound, the Friendly Error System, SwiftProcessing, the Showcase, XR, and i18n. Below are short descriptions of every 2021 GSoC student’s work, as well as links for more information. Many of the students wrote in-depth articles about their projects, which you can read ***[here](https://web.archive.org/web/20251011135635/https://medium.com/processing-foundation/pfgsoc/home)*. We’re so proud of all the accomplishments of this year’s cohort!*
 
 ![A photo collage of eleven portraits, each of a Google Summer of Code student.](images/2021/img-001.png)
@@ -127,8 +125,6 @@ mentored by Luisa Pereira (Processing Foundation Fellow 2016)
 ![A screengrab of Create p5 Music, an interactive web version of Luisa Pereira’s book Code of Music.](images/2021/img-009.jpg)
 
 *A screengrab of Create p5 Music, an interactive web version of Luisa Pereira’s book Code of Music. [Image description: A black-on-white illustration showing the profile of a head with sound waves coming out of its mouth and traveling toward an ear.]*
-
-*
 
 Code of Music* is an interactive book by Luisa Pereira that aims to explain the basics of music theory and eventually to teach people to create their own music with code. I worked with her to make an interactive web and PDF version of the book, along with fellow ITP student Elias Jarzombek, who was also a web developer on the team.
 

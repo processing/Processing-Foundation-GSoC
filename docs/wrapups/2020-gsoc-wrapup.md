@@ -8,21 +8,13 @@ archived: "2026-03-09"
 
 # Google Summer of Code 2020 Wrap-Up Post
 
-*
-
 This summer marks Processing Foundation’s ninth year participating in ***[Google Summer of Code](https://web.archive.org/web/20251011135634/https://summerofcode.withgoogle.com/)*! The GSOC program aims to get undergraduate students involved in open-source software by providing a summer stipend to work on a project of their choice. Students submitted proposals to work on an aspect of Processing, p5.js, Processing.py, and Processing for Android. We were able to offer 11 positions from a field of 90 applications.*
-
-*
 
 Several of our students wrote articles, discussing their projects in their own words, which you can read ***[here](https://web.archive.org/web/20251011135634/https://medium.com/processing-foundation/pfgsoc/home)*. Below are short descriptions of every 2020 GSOC student’s work, as well as links for more information. We’re so proud of all the accomplishments of this year’s cohort!*
 
-*
-
 note: Image Descriptions appear in the captions when they are too long to fit in Alt Text.*
 
-**
-
-Omar Verduga** worked on Internationalization and Spanish Localization for the p5.js Web Editor. The p5.js Web Editor is a web-based code editor that lets artists, educators, and programmers create and share p5.js sketches online.
+**Omar Verduga** worked on Internationalization and Spanish Localization for the p5.js Web Editor. The p5.js Web Editor is a web-based code editor that lets artists, educators, and programmers create and share p5.js sketches online.
 
 Omar was mentored by [Andrew Nicolaou](https://web.archive.org/web/20251011135634/https://andrewnicolaou.co.uk/), who was a Processing Foundation Fellow in 2017.
 
@@ -56,9 +48,7 @@ The following functionality was introduced:
 
 *…and the Spanish version.*
 
-**
-
-Ghales Trilo **worked on improving the experience of the Web Editor on phones and tablets by detecting, validating, studying, and providing solutions for weak points on the mobile and tablet experience.
+**Ghales Trilo **worked on improving the experience of the Web Editor on phones and tablets by detecting, validating, studying, and providing solutions for weak points on the mobile and tablet experience.
 
 Ghales was mentored by Cassie Tarakajian, who is the current lead maintainer of the p5.js Web Editor.
 
@@ -72,9 +62,7 @@ I developed a mobile-friendly interface for the p5.js Web Editor. While lacking 
 
 .
 
-**
-
-Inhwa Yeom** reached out to educators around the world, with the aim to contribute to documenting, showcasing, and sharing teaching experiences, specifically by re-using the existing features of p5js.org.
+**Inhwa Yeom** reached out to educators around the world, with the aim to contribute to documenting, showcasing, and sharing teaching experiences, specifically by re-using the existing features of p5js.org.
 
 She was mentored by [Qianqian Ye](https://web.archive.org/web/20251011135634/http://www.qianqian-ye.com/), who was a Processing Foundation Fellow in 2019. With Seonghyeon Kim, Inhwa was a [2020 Processing Foundation Fellow](/web/20251011135634/https://medium.com/processing-foundation/p5-js-for-ages-50-in-korea-50d47b5927fb).
 
@@ -88,9 +76,7 @@ The purpose of my “p5 for 50+ teaching” project was to collect information o
 
 *p5js.org/teach webpage. [Image description: A webpage of p5js.org, with title “teach” and subtitle “p5 Teaching Resources”]*
 
-**
-
-Akshay Padte **worked on making p5.js’s Friendly Error System even friendlier. This project aimed primarily to extend the functionality of the FES, by adding new features that will help beginners when they start learning.
+**Akshay Padte **worked on making p5.js’s Friendly Error System even friendlier. This project aimed primarily to extend the functionality of the FES, by adding new features that will help beginners when they start learning.
 
 Akshay was mentored by [Stalgia Grigg](https://web.archive.org/web/20251011135634/https://stalgiagrigg.name/), who was a 2019 p5.js Fellow.
 
@@ -116,9 +102,7 @@ Second, the FES can now detect global errors, even those which might not be dire
 
 *The new feature in action, simplifying the error shown by the browser.*
 
-**
-
-Luis Morales-Navarro** worked to make p5.js more accessible by creating a describe() function that allows users to write their own text-based canvas descriptions. He will be updating, cleaning, simplifying, documenting, and preparing the p5.accessibility.js add-on for its integration into the p5.js library.
+**Luis Morales-Navarro** worked to make p5.js more accessible by creating a describe() function that allows users to write their own text-based canvas descriptions. He will be updating, cleaning, simplifying, documenting, and preparing the p5.accessibility.js add-on for its integration into the p5.js library.
 
 Luis was mentored by [Kate Hollenbach](https://web.archive.org/web/20251011135634/http://www.katehollenbach.com/), with [Claire Kearney-Volpe](https://web.archive.org/web/20251011135634/http://www.takinglifeseriously.com/about.html) and Lauren McCarthy as advisors. This project continued work to make p5.js accessibility that Luis has contributed to for several years, including as a [Processing Foundation Fellow in 2018](/web/20251011135634/https://medium.com/processing-foundation/making-p5-js-accessible-e2ce366e05a0) with Mathura Govindarajan.
 
@@ -136,9 +120,7 @@ There is a lot of work that can be done to improve the accessibility of p5.js sk
 
 *Using the describe() and describeElement() functions p5.js users can create screen reader accessible descriptions of the canvas. [image description: Screenshot of a p5.js sketch. Below it a user generated description reads: “Heart and yellow circle over pink background.” This text is followed by descriptions of each shape: “Circle: Yellow circle in the top left corner.” and ”Heart: Red heart in the bottom right corner.”]*
 
-**
-
-Ziyao Zhang (Mark)** worked on improving p5.py, including standardizing its API, and implementing some new features in 3D mode.
+**Ziyao Zhang (Mark)** worked on improving p5.py, including standardizing its API, and implementing some new features in 3D mode.
 
 Mark was mentored by [Abhik Pal](https://web.archive.org/web/20251011135634/https://abhikpal.github.io/) and [Arihant Parsoya](https://web.archive.org/web/20251011135634/https://github.com/parsoyaarihant).
 
@@ -154,9 +136,7 @@ There are many more exciting things to do, however! Examples include rewriting t
 
 .
 
-**
-
-Juan Lee** worked to bring the camera functionality and 3D primitives to the Swift Processing Library.
+**Juan Lee** worked to bring the camera functionality and 3D primitives to the Swift Processing Library.
 
 Juan was mentored by [Jonathan Kaufman](https://web.archive.org/web/20251011135634/https://github.com/jjkaufman).
 
@@ -170,9 +150,7 @@ Processing brings an easier way for users to build and draw new applications, si
 
 .
 
-**
-
-Aditya Rana** worked on the migration of Android-Processing mode and Migrating Groovy based Gradle System to Kotlin, and implementing the multi-platform library in iOS for as many as possible stubbed methods.
+**Aditya Rana** worked on the migration of Android-Processing mode and Migrating Groovy based Gradle System to Kotlin, and implementing the multi-platform library in iOS for as many as possible stubbed methods.
 
 Aditya was mentored by Syam Sundar K, who was a GSOC student with Processing Foundation in 2018 and 2019.
 
@@ -194,9 +172,7 @@ Currently I am the sole maintainer of the migrated codebase. The hope is that ne
 
 Also, [click here for a document specifying how to proceed for other issues](https://web.archive.org/web/20251011135634/https://ranaaditya.github.io/GSoC2020/GSoC_Visual_Outcomes.pdf).
 
-**
-
-Yukie Nomiya** made the internationalization process of the p5.js website easier and more accessible to contributors, while also simplifying the maintenance of the translation. Using these implementations, they will add Italian to the languages supported by the p5.js website.
+**Yukie Nomiya** made the internationalization process of the p5.js website easier and more accessible to contributors, while also simplifying the maintenance of the translation. Using these implementations, they will add Italian to the languages supported by the p5.js website.
 
 Yukie was mentored by [Evelyn Masso](https://web.archive.org/web/20251011135634/https://outofambit.com/), who was a p5.js Fellow in 2019.
 
@@ -216,9 +192,7 @@ In addition to the changes made to the existing internationalization process (wh
 
 *Example of how a user would edit and then download the Korean translation file for the Reference section with the p5.js-website-translator webpage.*
 
-**
-
-Connie Liu **worked to increase the organization and scope of the p5.js Showcase.
+**Connie Liu **worked to increase the organization and scope of the p5.js Showcase.
 
 Connie was mentored by [Joey Lee](https://web.archive.org/web/20251011135634/https://jk-lee.com/) and [Yining Shi](https://web.archive.org/web/20251011135634/http://1023.io/), both of whom are mentors to 2020 ml5.js Processing Foundation Fellows.
 
@@ -250,9 +224,7 @@ Currently I am the sole maintainer of the p5.js 2020 showcase repo and it exists
 
 *Screenshot of the new p5.js 2020 showcase.*
 
-**
-
-Divyanshu Raj **worked with the p5.sound library to upgrade the codebase to use ES6 features and change the current module format (current AMD) and loaders(requireJS) used in the module system.
+**Divyanshu Raj **worked with the p5.sound library to upgrade the codebase to use ES6 features and change the current module format (current AMD) and loaders(requireJS) used in the module system.
 
 Divyanshu was mentored by [Kyle James](https://web.archive.org/web/20251011135634/https://github.com/kyle1james) and [Jason Sigal](https://web.archive.org/web/20251011135634/https://jasonsigal.cc/), who was a mentor in GSOC 2018.
 

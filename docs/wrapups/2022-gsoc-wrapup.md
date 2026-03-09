@@ -8,9 +8,7 @@ archived: "2026-03-09"
 
 # Google Summer of Code 2022 Wrap-Up Post
 
-*
-
-This summer marks Processing Foundation’s eleventh year participating in ***[Google Summer of Code](https://web.archive.org/web/20221217215147/https://summerofcode.withgoogle.com/)*! The GSoC program aims to get new contributors involved in open-source software by providing a stipend to work on a project of their choice. We received 52 proposals and eight were accepted into the GSoC program. Beyond those, we identified three projects that we are supporting directly. Keep reading to learn about the contributors, projects, and mentors. You can find the announcement post from ***[July 2022 here](/web/20221217215147/https://medium.com/processing-foundation/announcing-google-summer-of-code-2022-projects-and-a-few-more-77043ab4d0b4)*.*
+This summer marks Processing Foundation’s eleventh year participating in ***[Google Summer of Code](https://web.archive.org/web/20221217215147/https://summerofcode.withgoogle.com/)*! The GSoC program aims to get new contributors involved in open-source software by providing a stipend to work on a project of their choice. We received 52 proposals and eight were accepted into the GSoC program. Beyond those, we identified three projects that we are supporting directly. Keep reading to learn about the contributors, projects, and mentors. You can find the announcement post from [July 2022 here](/web/20221217215147/https://medium.com/processing-foundation/announcing-google-summer-of-code-2022-projects-and-a-few-more-77043ab4d0b4)*.*
 
 Edited by [Saber Khan](https://web.archive.org/web/20221217215147/https://www.edsaber.info/) and [Suhyun Choi](https://web.archive.org/web/20221217215147/https://www.suhyunchoi.net/)
 
@@ -24,15 +22,11 @@ Mentored by [Tyler Yin](https://web.archive.org/web/20221217215147/https://tyler
 
 Currently finishing this project as part of an extended timeline which ends in November 2022.
 
-**
-
-Project Description**
+**Project Description**
 
 Malay is working with his mentor Tyler on updating the examples in the p5 website to contextualize them with principles of visual design. By showcasing how the tools can be used visually, he aims to bridge the gap that beginners often face between conceptualizing an artwork and coding it. He also plans to improve the user experience of the examples page by introducing search and thumbnails.
 
-**
-
-Project Update**
+**Project Update**
 
 In this project, I aimed to develop a new set of examples for the p5.js website that introduce examples which focus on programming constructs alongside concepts of art & design. As I had planned in the beginning of the project, I have been able to work on the examples in 5 of the 25+ categories present on the website. These include: Color, Math, Image, Motion, Drawing, and Input. So far, I am on track to proposing 50+ examples, some of them are reworked versions of current examples and some are completely new. I have also worked on wireframing a set of improvements to the layout of the examples page but have not been able to implement in the code yet. I have opted for an extended timeline as I hope to continue adding more examples!
 
@@ -48,9 +42,7 @@ In this project, I aimed to develop a new set of examples for the p5.js website 
 
 *Monochromatic Color Scheme*
 
-**
-
-Biography**
+**Biography**
 
 Malay Vasa is a third-year undergraduate student of Human Centered Design at Srishti Manipal Institute in Bangalore. He is also a self-taught front-end developer and creative coding enthusiast. He has been a part of the Processing community since one of his first-year projects was featured in the [p5.js 2020 showcase](https://web.archive.org/web/20221217215147/https://connie-liu.me/p5.js-showcase/#/2020-All/project-15/). This is his first time participating in Google Summer of Code.
 
@@ -60,9 +52,7 @@ Mentored by [Kate Hollenbach](https://web.archive.org/web/20221217215147/http://
 
 Currently finishing this project as part of an extended timeline.
 
-**
-
-Links**
+**Links**
 
 - [Work Product Report (Gist)](https://web.archive.org/web/20221217215147/https://gist.github.com/aceslowman/3d18e8e3acac994bde2ae2512cc85f3d)
 
@@ -86,11 +76,9 @@ Gracia planned to re-organize media from the teachers, code, and video files. Sh
 
 In this project, Gracia updated the posts based on the recent submission form first to be familiar with the original /Teach and to research the users through the submitted forms. Based on user studies, she intends to bring more learners & diversity on the /teach page by optimizing the submission form with a new form for learners who want to share, and a new section “Upcoming Workshops”. Inhwa and Gracia hope that this new section will bring in more willing learners and give more teachers the opportunity to share their workshops, classes, etc.
 
-****[github link](https://web.archive.org/web/20221217215147/https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/graciazhang_gsoc_2022.md)
+[github link](https://web.archive.org/web/20221217215147/https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/graciazhang_gsoc_2022.md)
 
-**
-
-Demo gif:**
+**Demo gif:**
 
 Gracia is a visual designer and a front-end development beginner. She majors in ITP in NYU as a first-year master.
 
@@ -185,9 +173,7 @@ Mentored by [Ziyao Zhang (Mark)](https://web.archive.org/web/20221217215147/http
 - [Medium Article](/web/20221217215147/https://medium.com/@codingid6/implementing-a-2d-backend-renderer-using-skia-for-p5py-c20ae2dfdf7b)
 - [GitHub Work Product Report](https://web.archive.org/web/20221217215147/https://github.com/p5py/p5/blob/master/project-wrapups/summer-fellow-2022-wrapup/tushar-processing-summer-fellow-2022-product-work-report.md)
 
-**
-
-GitHub Links**
+**GitHub Links**
 
 - [Setting up Environment APIs for Skia](https://web.archive.org/web/20221217215147/https://github.com/p5py/p5/pull/344)
 - [Enhancing Skia Further](https://web.archive.org/web/20221217215147/https://github.com/p5py/p5/pull/357)
