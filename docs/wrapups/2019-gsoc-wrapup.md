@@ -36,13 +36,13 @@ WebGL is a web version on OpenGL, i.e a 3D engine. It allows you to make 3D mate
 
 Click the links below for Github:
 
-- [A new parser to load STL files using loadModel()](https://web.archive.org/web/20251011135613/https://github.com/processing/p5.js/pull/3675)
-- [lightFalloff()](https://web.archive.org/web/20251011135613/https://github.com/processing/p5.js/pull/3786)
-- [emissiveMaterial()](https://web.archive.org/web/20251011135613/https://github.com/processing/p5.js/pull/3820)
-- [specularColor()](https://web.archive.org/web/20251011135613/https://github.com/processing/p5.js/pull/3843)
-- [spotLight()](https://web.archive.org/web/20251011135613/https://github.com/processing/p5.js/pull/3913)
-- [frustum()](https://web.archive.org/web/20251011135613/https://github.com/processing/p5.js/pull/3927)
-- [noLights()](https://web.archive.org/web/20251011135613/https://github.com/processing/p5.js/pull/3955)
+- [A new parser to load STL files using loadModel()](https://github.com/processing/p5.js/pull/3675)
+- [lightFalloff()](https://github.com/processing/p5.js/pull/3786)
+- [emissiveMaterial()](https://github.com/processing/p5.js/pull/3820)
+- [specularColor()](https://github.com/processing/p5.js/pull/3843)
+- [spotLight()](https://github.com/processing/p5.js/pull/3913)
+- [frustum()](https://github.com/processing/p5.js/pull/3927)
+- [noLights()](https://github.com/processing/p5.js/pull/3955)
 
 ## Jiwon Shin
 
@@ -158,15 +158,35 @@ Click the links below for Github
 
 ### Core
 
+-   <https://github.com/processing/p5.js/pull/3772>
+-   <https://github.com/processing/p5.js/pull/3865>
+
 ### Events
+
+-   <https://github.com/processing/p5.js/pull/3824>
+-   <https://github.com/processing/p5.js/pull/3814>
+-   <https://github.com/processing/p5.js/pull/3810>
+-   <https://github.com/processing/p5.js/pull/3809>
 
 ### Image
 
+-   <https://github.com/processing/p5.js/pull/3828>
+-   <https://github.com/processing/p5.js/pull/3829>
+-   <https://github.com/processing/p5.js/pull/3838>
+
 ### Typography
+
+-   <https://github.com/processing/p5.js/pull/3839>
+-   <https://github.com/processing/p5.js/pull/3844>
 
 ### Utilities
 
+-   <https://github.com/processing/p5.js/pull/3864>
+
 ### WebGL
+
+-   <https://github.com/processing/p5.js/pull/3896>
+-   <https://github.com/processing/p5.js/pull/3902>
 
 ## Deeraj Esvar R
 
@@ -184,6 +204,8 @@ I proposed to work on the following:
 
 [Click here for Deeraj’s article about his project](/web/20251011135613/https://medium.com/@deerajtheepshi/google-summer-of-code-2019-final-report-59513df76c72)
 
+[Click here for Github](https://github.com/DeerajTheepshi/processing-android/)
+
 ## Carlos L05 Garcia
 
 ### p5.touchgui
@@ -192,6 +214,10 @@ mentored by Yining Shi
 
 p5.touchgui is intended to extend p5.js and make it easy to add buttons, sliders, and other GUI (graphical user interface) objects to p5.js sketches, enabling users to focus on quickly iterating ideas with easily created GUI objects that work with both mouse and multi-touch input.
 
+[Click here for Work Product Report](https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/L05_GSOC_2019.md)
+
+[Click here for Github](https://github.com/L05/p5.touchgui)
+
 ## Syam Sundar K
 
 ### Processing Language Server
@@ -199,6 +225,10 @@ p5.touchgui is intended to extend p5.js and make it easy to add buttons, sliders
 mentored by Manindra K Moharana
 
 Processing Language Server focuses on creating a Language Server Protocol (LSP) implementation for Processing Programming Language. PDE is currently built using Java and using custom components of Swing Framework. The longterm goal of Processing is to replace this with a JS-based IDE to bring in more contributors and to make building UIs simple. While planning on building such IDE, LSP is of significant importance for any language because the IDE relies on it. Since Processing is the targeted Programming language, it’s quite important to build an LSP for the same. This shall act as a benchmark for all the crucial activities of the IDE such as auto-completion, go-to-definition, hover-insights, and so on. LSP will also help in easy and seamless integration of the above functionalities in any editor such as Atom, VScode, etc.
+
+[Click here for Work Product Report](https://syamsundarkirubakaran.github.io/lspfinal)
+
+[Click here for Github](https://github.com/processing-language-server/LS4P)
 
 ## Vedhant Agarwal
 
@@ -210,14 +240,16 @@ p5.xr is a library for p5.js that enables WebXR capabilities with p5 sketches. T
 
 Click the links below for work product reports
 
-- [Replacing _update() with _updatexr()](https://web.archive.org/web/20251011135613/https://github.com/stalgiag/p5.xr/pull/21)
-- [Pixelation](https://web.archive.org/web/20251011135613/https://github.com/stalgiag/p5.xr/pull/24)
-- [p5xr Viewer class](https://web.archive.org/web/20251011135613/https://github.com/stalgiag/p5.xr/pull/28)
-- [intersectsBox()](https://web.archive.org/web/20251011135613/https://github.com/stalgiag/p5.xr/pull/49)
-- [intersectsSphere()](https://web.archive.org/web/20251011135613/https://github.com/stalgiag/p5.xr/pull/48)
--   
-[getRayFromScreen()generateRay()](https://web.archive.org/web/20251011135613/https://github.com/stalgiag/p5.xr/pull/48)
-- [intersectsPlane()](https://web.archive.org/web/20251011135613/https://github.com/stalgiag/p5.xr/pull/50)
+-   [Replacing _update() with _updatexr()](https://github.com/stalgiag/p5.xr/pull/21)
+-   [Pixelation](https://github.com/stalgiag/p5.xr/pull/24)
+-   [p5xr Viewer class](https://github.com/stalgiag/p5.xr/pull/28)
+-   [intersectsBox()](https://github.com/stalgiag/p5.xr/pull/49)
+-   [intersectsSphere()](https://github.com/stalgiag/p5.xr/pull/48)
+-   [getRayFromScreen()\
+    generateRay()](https://github.com/stalgiag/p5.xr/pull/48)
+-   [intersectsPlane()](https://github.com/stalgiag/p5.xr/pull/50)
+
+[Click here for Github](https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/vedhant_gsoc_2019.md)
 
 ## Alex Stamm
 
@@ -227,6 +259,10 @@ mentored by Andres Colubri
 
 The goal of this project was to stabilize the [Processing Video Library](https://web.archive.org/web/20251011135613/https://github.com/processing/processing-video) to v2.0, which is based on the GStreamer media framework. The aim here was to handle library-side back-end code so that users using the Processing Development Environment (PDE) can simply run their Processing editor for high-quality video playback, depending on user specifications. The tasks included upgrading the video framework, upgrading to a native buffer playback, improve capture support, tackling notable bugs, and providing documentation to better use the library. The goal is to handle the back-end framework seamlessly so that users can focus on easy video playback for their own projects.
 
+[Click here for Work Product Report](https://www.alexstamm.com/gsoc)
+
+[Click here for Github](https://github.com/alexstamm/processing-video)
+
 ## Oren Shoham
 
 ### Using Audio Workley in the p5.Sound library
@@ -235,12 +271,16 @@ mentored by Jason Sigal
 
 For my GSoC 2019 project, I worked with my mentor Jason Sigal to add AudioWorklet support to p5.js-sound, allowing certain parts of the library to run more efficiently by moving custom audio processing to a separate audio thread. I also helped Jason integrate Webpack and Babel into the p5.js-sound Grunt build pipeline, allowing the library’s developers to use ES6 JavaScript features and laying the groundwork for modernizing the codebase and examples.
 
-- [Add tests for p5.SoundRecorder and lint existing tests (#364)](https://web.archive.org/web/20251011135613/https://github.com/processing/p5.js-sound/pull/364)
-- [Replace requirejs with webpack to enable ES6+ and non-AMD modules (#366)](https://web.archive.org/web/20251011135613/https://github.com/processing/p5.js-sound/pull/366)
-- [Replace ScriptProcessorNode in p5.SoundRecorder with AudioWorkletNode (#369)](https://web.archive.org/web/20251011135613/https://github.com/processing/p5.js-sound/pull/369)
-- [Replace ScriptProcessorNode with AudioWorkletNode in p5.SoundFile and p5.Amplitude (#373)](https://web.archive.org/web/20251011135613/https://github.com/processing/p5.js-sound/pull/373)
-- [Add ring buffers to AudioWorklet processors to support variable buffer sizes (#376)](https://web.archive.org/web/20251011135613/https://github.com/processing/p5.js-sound/pull/376)
-- [Bugfixes for p5.Amplitude and p5.Soundfile for browsers without AudioWorklet support (#380)](https://web.archive.org/web/20251011135613/https://github.com/processing/p5.js-sound/pull/380)
+[Click here for Work Product Report](https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/orenshoham_gsoc_2019.md)
+
+Click the links below for Github
+
+-   [Add tests for p5.SoundRecorder and lint existing tests (#364)](https://github.com/processing/p5.js-sound/pull/364)
+-   [Replace requirejs with webpack to enable ES6+ and non-AMD modules (#366)](https://github.com/processing/p5.js-sound/pull/366)
+-   [Replace ScriptProcessorNode in p5.SoundRecorder with AudioWorkletNode (#369)](https://github.com/processing/p5.js-sound/pull/369)
+-   [Replace ScriptProcessorNode with AudioWorkletNode in p5.SoundFile and p5.Amplitude (#373)](https://github.com/processing/p5.js-sound/pull/373)
+-   [Add ring buffers to AudioWorklet processors to support variable buffer sizes (#376)](https://github.com/processing/p5.js-sound/pull/376)
+-   [Bugfixes for p5.Amplitude and p5.Soundfile for browsers without AudioWorklet support (#380)](https://github.com/processing/p5.js-sound/pull/380)
 
 ---
 

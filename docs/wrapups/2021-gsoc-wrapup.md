@@ -26,13 +26,10 @@ mentored by Jiwon Shin (GSOC 2019); advised by [Inwha Yeom](https://web.archive.
 
 I set out to translate parts of the p5.js website into Korean, as well as to conceive a new navigation structure that could be used for the website’s ‘Learn’ page. I translated the ‘Reference’ section of the p5.js website, standardized the wordings and format for the language JSON file, and created an entirely new website design for the p5.js website.
 
-[Click here for an in-depth article about the project](/web/20251011135635/https://medium.com/processing-foundation/summer-21-translations-coding-and-webdev-oh-my-cc1a2d6bc65f)
-
-[Click here for GitHub (Translations)](https://web.archive.org/web/20251011135635/https://github.com/processing/p5.js-website)
-
-[Click here for GitHub (Prototype Website)](https://web.archive.org/web/20251011135635/https://github.com/jhongover9000/jhongover9000.github.io/tree/main/p5-testSite)
-
-[Click here for prototype p5.js website homepage](https://web.archive.org/web/20251011135635/https://jhongover9000.github.io/p5-testSite/homePage.html)
+- [Click here for an in-depth article about the project](/web/20251011135635/https://medium.com/processing-foundation/summer-21-translations-coding-and-webdev-oh-my-cc1a2d6bc65f)
+- [Click here for GitHub (Translations)](https://web.archive.org/web/20251011135635/https://github.com/processing/p5.js-website)
+- [Click here for GitHub (Prototype Website)](https://web.archive.org/web/20251011135635/https://github.com/jhongover9000/jhongover9000.github.io/tree/main/p5-testSite)
+- [Click here for prototype p5.js website homepage](https://web.archive.org/web/20251011135635/https://jhongover9000.github.io/p5-testSite/homePage.html)
 
 ## Shantanu Kaushik
 
@@ -58,7 +55,7 @@ The new feature sketch_reader.js tackles this problem.
 
 I was able to complete all the goals.
 
-[Click here for GitHub](https://web.archive.org/web/20251011135635/https://gist.github.com/Aloneduckling/c62bb4289fa5bce47e4a78162c3e7975)
+- [Click here for GitHub](https://web.archive.org/web/20251011135635/https://gist.github.com/Aloneduckling/c62bb4289fa5bce47e4a78162c3e7975)
 
 ## Niki Ito
 
@@ -80,9 +77,8 @@ mentored by Elgin-Skye McLaren (GSOC 2018) and Grace Kwon
 
 This project includes a visual narrative website titled “about Me You & Us,” a project handbook, and a GitHub repository. The visual narrative website features intimate stories about members of the Japanese diaspora in the United States. The narratives are told through interactive p5.js sketches with audio, text, and photography. With this website as an example, the project handbook will guide activists, artists, designers, and beginner coders through the conceptual and technical development of the visual narrative website.
 
-[Click here for visual narrative website](https://web.archive.org/web/20251011135635/https://niki-ito.github.io/activism-through-storytelling-with-code/)
-
-[Click here for project handbook](https://web.archive.org/web/20251011135635/https://niki-ito.github.io/activism-through-storytelling-with-code/handbook/index.html)
+- [Click here for visual narrative website](https://web.archive.org/web/20251011135635/https://niki-ito.github.io/activism-through-storytelling-with-code/)
+- [Click here for project handbook](https://web.archive.org/web/20251011135635/https://niki-ito.github.io/activism-through-storytelling-with-code/handbook/index.html)
 
 ## Aditya Siddheshwar
 
@@ -100,21 +96,15 @@ mentored by Nick McIntyre and Jithin KS (GSOC 2018)
 
 p5.teach is an addon library for teaching math through animations and simulations. It provides educators with tools to make interactive animated sketches that can support learning in the remote environment. p5.teach has a user-friendly API for creating text, TeX, and shape animations. It also includes control buttons for timelines and SVG plotting methods for graphs.
 
-[Click here for work product report](https://web.archive.org/web/20251011135635/https://gist.github.com/two-ticks/4dda385f078abe5ac63cba98eac30e5d)
-
-[Click here for discourse post](https://web.archive.org/web/20251011135635/https://discourse.processing.org/t/animating-maths-in-p5-js/31583)
-
-[Click here for API reference](https://web.archive.org/web/20251011135635/https://github.com/two-ticks/p5.teach.js/blob/GSoC'21/api_reference.md)
+- [Click here for work product report](https://web.archive.org/web/20251011135635/https://gist.github.com/two-ticks/4dda385f078abe5ac63cba98eac30e5d)
+- [Click here for discourse post](https://web.archive.org/web/20251011135635/https://discourse.processing.org/t/animating-maths-in-p5-js/31583)
+- [Click here for API reference](https://web.archive.org/web/20251011135635/https://github.com/two-ticks/p5.teach.js/blob/GSoC'21/api_reference.md)
 
 GitHub pull requests:
 
-[https://github.com/two-ticks/p5.teach.js/pull/13](https://web.archive.org/web/20251011135635/https://github.com/two-ticks/p5.teach.js/pull/13)
-
-[https://github.com/two-ticks/p5.teach.js/pull/6](https://web.archive.org/web/20251011135635/https://github.com/two-ticks/p5.teach.js/pull/6)
-
-## bug fixing in animations and adding Geometric Objects by two-ticks · Pull Request #20 ·…
-
-### improve GObjects and documentation of methods Add this suggestion to a batch that can be applied as a single commit…
+- [https://github.com/two-ticks/p5.teach.js/pull/13](https://web.archive.org/web/20251011135635/https://github.com/two-ticks/p5.teach.js/pull/13)
+- [https://github.com/two-ticks/p5.teach.js/pull/6](https://web.archive.org/web/20251011135635/https://github.com/two-ticks/p5.teach.js/pull/6)
+- [bug fixing in animations and adding Geometric Objects](https://github.com/two-ticks/p5.teach.js/pull/20)
 
 ## Stuti Mohgaonkar
 
@@ -146,9 +136,8 @@ We used p5js to build all our interactives, which were supported by other librar
 
 [The repository for Code Of Music book can be found here](https://web.archive.org/web/20251011135635/https://github.com/luisaph/the-code-of-music)
 
-[Click here for a deployed version of the book](https://web.archive.org/web/20251011135635/https://codeofmusic-16a81.web.app/melodytest/index.html#melody-N25Yfk2)
-
-[Click here to see links to my specific commits](https://web.archive.org/web/20251011135635/https://github.com/luisaph/the-code-of-music/commits?author=43-stuti)
+- [Click here for a deployed version of the book](https://web.archive.org/web/20251011135635/https://codeofmusic-16a81.web.app/melodytest/index.html#melody-N25Yfk2)
+- [Click here to see links to my specific commits](https://web.archive.org/web/20251011135635/https://github.com/luisaph/the-code-of-music/commits?author=43-stuti)
 
 ### Future project scope
 
@@ -162,9 +151,8 @@ d. Add react-dom to Magicbook.
 
 e. Build out all the remaining interactives.
 
-[Click here for homepage](https://web.archive.org/web/20251011135635/https://codeofmusic-16a81.web.app/melodytest/index.html#melody-N25Yfk2)
-
-[Click here for work report](https://web.archive.org/web/20251011135635/https://thirsty-jobaria-fd1.notion.site/Code-of-Music-GSoC-84ad01fc7bad477cbf1522e3050b458f)
+- [Click here for homepage](https://web.archive.org/web/20251011135635/https://codeofmusic-16a81.web.app/melodytest/index.html#melody-N25Yfk2)
+- [Click here for work report](https://web.archive.org/web/20251011135635/https://thirsty-jobaria-fd1.notion.site/Code-of-Music-GSoC-84ad01fc7bad477cbf1522e3050b458f)
 
 ## **Katie Liu**
 
@@ -200,7 +188,11 @@ p5.xr is a library for p5.js that enables WebXR capabilities with p5 sketches. O
 
 In order to share what I learned about XR with others, I included commentary that explained how to use XR-specific functions within the basic examples. I then expanded upon these same concepts within the complex examples to show that advanced artistic exploration within virtual reality is possible too.
 
-## **Masood Kamandy**
+[Click here for an in-depth article about the project](https://medium.com/processing-foundation/improving-the-p5-xr-library-through-artistic-examples-13d35557ff)
+
+[Click here for work product report](https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/anaisgonzalez_gsoc_2021.md)
+
+## **Blue Kamandy**
 
 ### Advancing SwiftProcessing with Learners in Mind
 
@@ -218,6 +210,9 @@ The idea for this process was to use a first quarter or semester course in Swift
 
 The end result is a brand new Playground textbook, many new examples, and a framework that is far better documented, more stable, and feature rich.
 
+- [Click here for an in-depth article about the project](https://medium.com/processing-foundation/moving-swiftprocessing-forward-209e9e90eb78)
+- [Click here for GitHub](https://gist.github.com/masoodkamandy/5f92e756489d884a022f88f2fe679de8)
+
 ## **Satya Sai Bhushan Tambabathula**
 
 ### Improve Test Coverage in p5.Sound library
@@ -230,6 +225,8 @@ mentored by Guillermo Montecinos
 
 The aim of this project was to improve the testing architecture and the test coverage of the p5.js sound library. I added new unit tests and introduced headless testing to the library, which can be used in GitHub actions in the future. I also wrote a wiki page about the testing architecture and about how to write tests for beginners. I added more than 300 unit tests to the project and increased the test coverage 5-fold, which you can see in the picture provided.
 
+- [Click here for work product report](https://github.com/satyasaibhushan/gsoc-21-wrapup)
+
 ## **Sanjay Singh Rajpoot**
 
 ### Internationalization(i18n) and Deployment of p5.js Website
@@ -241,6 +238,8 @@ mentored by Aditya Rana
 *A screengrab showing the p5.js website in Hindi translation. [Image description: A white webpage with “p5*js” in bold pink at the top of the page. Underneath it, there are two columns of Hindi text, one narrow column in pink on the left, and one wider column in black on the right.]*
 
 For this project, I added a new Hindi translation feature to the p5.js website. Due to internationalization (i18n), the p5.js website is built from templates that retrieve the text content from data files. The entire site is built with Node JS, Handlebars, and Grunt. There are three kinds of pages — References, Examples, and other web pages — and each works differently. References pages are built in English and swapped to other languages using JS on the front end. Translation content is stored in a JSON object. For every new page, we needed to create a key-value pair in the hi.yml file. A single JS template was also needed. Examples pages are built from templates with Handlebars, while examples are stored in JS files. To implement i18n, new templates were created specifically for the Hindi language, so that Examples were rendered properly. Other pages are built from templates in which Handlebars point to the content in the actual language when rendered.
+
+- [Click here for GitHub](https://github.com/processing/p5.js-website/pull/1071)
 
 ---
 

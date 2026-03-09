@@ -206,19 +206,11 @@ Currently I am the sole maintainer of the p5.js 2020 showcase repo and it exists
 
 [Click here for](/web/20251011135634/https://medium.com/processing-foundation/increasing-the-organization-and-scope-of-the-p5-js-showcase-7193ef558c5a)[Medium Post](/web/20251011135634/https://medium.com/@connie_liu/increasing-the-organization-and-scope-of-the-p5-js-showcase-7193ef558c5a)
 
-.
-
 [Click here for](https://web.archive.org/web/20251011135634/https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/connieliu_gsoc_2020.md)[Work Product Report](https://web.archive.org/web/20251011135634/https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/connieliu_gsoc_2020.md)
-
-.
 
 [Click here for](https://web.archive.org/web/20251011135634/https://github.com/connieliu0/p5.js-showcase)[Github Repository](https://web.archive.org/web/20251011135634/https://github.com/connieliu0/p5.js-showcase)
 
-.
-
 [View the 2020 Showcase Live](https://web.archive.org/web/20251011135634/https://showcase.p5js.org/#/)
-
-.
 
 ![website with title, in pink, “p5.js 2020 Showcase” and a gallery of showcase entries with a filter at the top](images/2020/img-018.jpg)
 

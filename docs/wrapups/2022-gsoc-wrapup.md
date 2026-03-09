@@ -4,6 +4,7 @@ year: 2022
 source_url: "https://medium.com/@ProcessingOrg/google-summer-of-code-2022-wrap-up-post-cb64caa840f0"
 published: "2022-10-17"
 archived: "2026-03-09"
+notes: "Some missing images."
 ---
 
 # Google Summer of Code 2022 Wrap-Up Post

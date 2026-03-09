@@ -20,9 +20,9 @@ Our mentors included longtime contributors to our software, members of our Board
 
 ## p5 (Python): Cross platform support, image support, and more
 
-Student**:** [Abhik Pal](https://web.archive.org/web/20251011135633/https://github.com/abhikpal/)
+**Student**: [Abhik Pal](https://web.archive.org/web/20251011135633/https://github.com/abhikpal/)
 
-Mentor**:** Manindra Moharana
+**Mentor**: Manindra Moharana
 
 [Work report](https://web.archive.org/web/20251011135633/https://p5.readthedocs.io/en/latest/releasenotes/0.5.0.html)
 
@@ -36,9 +36,9 @@ For this year’s Google Summer of Code, we continued our work on a native Pytho
 
 ## Android Debugger: Processing -Android
 
-Student: Manav Jain
+**Student**: Manav Jain
 
-Mentors: Andres Colubri and Rupak Das
+**Mentors**: Andres Colubri and Rupak Das
 
 [Work Report](https://web.archive.org/web/20251011135633/https://manavmjjain.wixsite.com/home/blog-1/gsoc-18-final-evaluation)
 
@@ -54,11 +54,13 @@ A Debugger for the Android mode in the Processing Development Environment (PDE) 
 
 ## Implementing missing WebGL primitives in p5.js
 
-Student: [Adil Rabbani](https://web.archive.org/web/20251011135633/https://adilrabbani.github.io/)
+**Student:** [Adil Rabbani](https://web.archive.org/web/20251011135633/https://adilrabbani.github.io/)
 
-Mentor: Stalgia Grigg
+**Mentor:** Stalgia Grigg
 
 [Medium Article](/web/20251011135633/https://medium.com/processing-foundation/gsoc-2018-my-summer-with-processing-foundation-5e5904e816fa)
+
+[Work Report](https://adilrabbani.github.io/blogposts/SummerWithProcessing.html)
 
 ![](images/2018/img-005.jpg)
 
@@ -74,13 +76,15 @@ PS. text wasn’t implemented by me due to time constraints. It was implemented 
 
 ## Processing Sound 2.0
 
-Student: [Kevin Stadler](https://web.archive.org/web/20251011135633/https://kevinstadler.github.io/)
+**Student:** [Kevin Stadler](https://web.archive.org/web/20251011135633/https://kevinstadler.github.io/)
 
-Mentor: Casey Reas
+**Mentor:** Casey Reas
 
-[Kevin Stadler](https://web.archive.org/web/20251011135633/https://kevinstadler.github.io/)
+[Medium Article](https://medium.com/processing-foundation/sound-2-0-cbb90953ec53)
 
- successfully undertook a complete rewrite of [Processing’s Sound library](https://web.archive.org/web/20251011135633/https://github.com/processing/processing-sound). While his fully backwards-compatible re-implementation based on a Java synthesis engine greatly improved Processing Sound support for platforms such as Android and Raspberry Pi, the library’s example sketches also received a complete overhaul, with an eye on making library usage even easier for beginners.
+[Work Report](https://kevinstadler.github.io/processing-sound/)
+
+[Kevin Stadler](https://web.archive.org/web/20251011135633/https://kevinstadler.github.io/) successfully undertook a complete rewrite of [Processing’s Sound library](https://web.archive.org/web/20251011135633/https://github.com/processing/processing-sound). While his fully backwards-compatible re-implementation based on a Java synthesis engine greatly improved Processing Sound support for platforms such as Android and Raspberry Pi, the library’s example sketches also received a complete overhaul, with an eye on making library usage even easier for beginners.
 
 ![](images/2018/img-007.jpg)
 
@@ -88,11 +92,15 @@ Mentor: Casey Reas
 
 ## AR Renderer: Processing -Android
 
-Student: Syam Sundar K
+**Student:** Syam Sundar K
 
-Mentors: Andres Colubri & Jesus Duran
+**Mentors:** Andres Colubri & Jesus Duran
 
-[Visual Outcome](https://web.archive.org/web/20251011135633/https://youtu.be/sfpSNW_ElD4)
+[Work Report](https://syamsundarkirubakaran.github.io/pfinal.html)
+
+[Repository](https://github.com/SyamSundarKirubakaran)
+
+[Visual Outcome](https://youtu.be/sfpSNW_ElD4)
 
 ![](images/2018/img-008.jpg)
 
@@ -106,19 +114,24 @@ An ARcore Renderer was created which focuses on creating Augmented Reality appli
 
 ## Processing for Pi website and tutorials
 
-Student: [Maksim Surguy](https://web.archive.org/web/20251011135633/https://twitter.com/msurguy?lang=en)
+**Student:** [Maksim Surguy](https://web.archive.org/web/20251011135633/https://twitter.com/msurguy?lang=en)
 
-Mentor: [Gottfried Haider](https://web.archive.org/web/20251011135633/https://ghai.xyz/)
+**Mentor:** [Gottfried Haider](https://web.archive.org/web/20251011135633/https://ghai.xyz/)
 
-[Project URL](https://web.archive.org/web/20251011135633/http://pi.processing.org/)
+[Project URL](http://pi.processing.org/)
 
-[Project Source Code](https://web.archive.org/web/20251011135633/https://github.com/processing/processing-pi-website)
+[Work Report](https://msurguy.github.io/GSOC2018-processing-pi/)
+
+[Project Source Code](https://github.com/processing/processing-pi-website)
 
 ![](images/2018/img-010.jpg)
 
 *Maksim Surguy*
 
 The result of this project is a website and a set of highly detailed tutorials for working with Processing on Raspberry Pi single board computers. There are two parts of this project that go hand-in-hand:
+
+-   Custom Website powered by Hugo static site generator
+-   Tutorial content with text, images, diagrams, code, and video
 
 The website aims to provide guidance for people that want to use Processing with sensors, buttons, cameras, and other connected devices. It also serves as a platform for future tutorials and contributions.
 
@@ -128,9 +141,15 @@ The website aims to provide guidance for people that want to use Processing with
 
 ## Dynamic Learning
 
-Student: Jithin KS
+**Student:** Jithin KS
 
-Mentor: Saber Khan
+**Mentor:** Saber Khan
+
+[Project URL](http://dynamiclearning.io/)
+
+[Medium Article](https://medium.com/processing-foundation/improving-science-and-math-education-using-p5-js-d434beea465c)
+
+[Repository](https://github.com/JithinKS97/dynamic-learning-app)
 
 ![](images/2018/img-012.jpg)
 
@@ -152,13 +171,13 @@ The project involved development of a webapp called Dynamic Learning, which is a
 
 ## Development Environment: Beginner/New User Experience Features
 
-Student: Jae Hyun
+**Student:** Jae Hyun
 
-Mentor: Elie Zananiri
+**Mentor:** Elie Zananiri
 
-[Repository 1](https://web.archive.org/web/20251011135633/https://www.github.com/jaewhyun/GettingStarted)
+[Medium Article](https://medium.com/@jaewhyun/gsoc-18-w-the-processing-foundation-b6e8af4d342c)
 
-, [repository 2](https://web.archive.org/web/20251011135633/https://www.github.com/jaewhyun/ReferenceTool)
+[Repository 1](https://web.archive.org/web/20251011135633/https://www.github.com/jaewhyun/GettingStarted), [repository 2](https://web.archive.org/web/20251011135633/https://www.github.com/jaewhyun/ReferenceTool)
 
 ![](images/2018/img-016.jpg)
 
@@ -180,9 +199,13 @@ The project involved developing two contributed Tools for New/Beginner users. Th
 
 ## A Platform for algorithmic composition on p5.js-sound
 
-Student Name: [Chan Jun Shern](https://web.archive.org/web/20251011135633/https://junshern.github.io/)
+**Student Name:** [Chan Jun Shern](https://web.archive.org/web/20251011135633/https://junshern.github.io/)
 
-Mentor: Jason Sigal
+**Mentor:** Jason Sigal
+
+[Medium Article](https://medium.com/processing-foundation/a-platform-for-algorithmic-composition-on-p5-js-271cd872d648)
+
+[Work Report](https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/junshern_gsoc_2018.md)
 
 ![](images/2018/img-020.jpg)
 
@@ -208,9 +231,11 @@ To encourage the use of these features and resources we’ve built for algorithm
 
 ## Improvements to I/O methods for p5.js
 
-Student: [Tanvi Kumar](https://web.archive.org/web/20251011135633/https://github.com/TanviKumar)
+**Student:** [Tanvi Kumar](https://web.archive.org/web/20251011135633/https://github.com/TanviKumar)
 
-Mentor: Alice M. Chung
+**Mentor:** Alice M. Chung
+
+[Work Report](https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/tanvi_gsoc_2018.md)
 
 ![](images/2018/img-024.jpg)
 
@@ -228,11 +253,13 @@ My project this summer revolved around improving the I/O methods of p5.js. Resol
 
 ## GLSL Editor for Processing
 
-Student:** **Izza Tariq
+**Student:** Izza Tariq
 
-Mentor:** **Andres Colubri
+**Mentor:** Andres Colubri
 
-[Website](https://web.archive.org/web/20251011135633/https://github.com/Izza11/GLSL-Editor-Processing)
+[Work Report](https://www.izzatariq.com/final-gsoc-report)
+
+[Website](https://github.com/Izza11/GLSL-Editor-Processing)
 
 ![](images/2018/img-027.jpg)
 
@@ -250,9 +277,15 @@ I developed a code-based (GLSL) shader editing tool for the Processing Developme
 
 ## New JavaScript console in p5.js web editor
 
-Student: Liang Tang
+**Student:** Liang Tang
 
-Mentor: Cassie Tarakajian
+**Mentor:** Cassie Tarakajian
+
+[Project URL](https://github.com/processing/p5.js-web-editor)
+
+[Work Report](https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/liang_gsoc_2018.md)
+
+[Repository](https://github.com/shinytang6)
 
 ![](images/2018/img-030.jpg)
 
@@ -278,9 +311,15 @@ c) Support the presentation of different data formats;
 
 ## Improvements to WebGL mode in p5.js
 
-Student Name: Aidan Nelson
+**Student:** Aidan Nelson
 
-Mentor: Kate Hollenbach
+**Mentor:** Kate Hollenbach
+
+[Medium Article](https://medium.com/processing-foundation/improvements-to-webgl-mode-in-p5-js-ae5b8840ab89)
+
+[Work Report](https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/aidannelson_gsoc_2018.md)
+
+[Repository](https://github.com/AidanNelson)
 
 ![](images/2018/img-033.jpg)
 
@@ -294,9 +333,13 @@ This summer, I worked with my mentor to implement a number of ease-of-use improv
 
 ## Updating hello.p5js.org
 
-Student: Elgin-Skye McLaren
+**Student:** Elgin-Skye McLaren
 
-Mentor: Evelyn Masso
+**Mentor:** Evelyn Masso
+
+[Work Report](https://github.com/emclaren/p5.js/blob/master/developer_docs/project_wrapups/elginmclaren_gsoc_2018.md)
+
+[Repository](https://github.com/emclaren/hello-p5)
 
 ![](images/2018/img-035.jpg)
 
@@ -326,18 +369,24 @@ For my GSOC project, I created a new interactive hello.p5js video trailer and we
 
 ## APDE Beta Push
 
-Student: William Smith
+**Student:** William Smith
 
-Mentor: Sara Di Bartolomeo
+**Mentor:** Sara Di Bartolomeo
+
+[Work Report](https://medium.com/@william_87398/apde-gsoc-18-preview-mode-incremental-compilation-and-wrap-up-a27c08739058)
+
+[Repository](https://github.com/Calsign/APDE)
 
 APDE (Android Processing Development Environment) is a fully functional IDE for creating Processing sketches on Android devices, but was in need of improvements to keep it up-to-date with the desktop version of Processing and to improve its accessibility to new users.
 
 ## Test strategy for maintaining and updating mobile  
 functionality of p5.js
 
-Student: Sithe Ncube
+**Student:** Sithe Ncube
 
-Mentor: Lee Tusman
+**Mentor:** Lee Tusman
+
+[Work Report](https://medium.com/@_LadySith/a-test-strategy-for-updating-and-maintaining-mobile-usability-of-p5-js-part-3-the-final-review-1cc39a66934e)
 
 ![](images/2018/img-041.jpg)
 
