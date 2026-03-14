@@ -3,7 +3,7 @@ You can use a editor of your choice.
 Please **keep the section headings exaclty as they are**.
 Everything but the headings are notes, and you should replace these with your proposal materials!
 
-<hr \>
+***
 
 # Section 1: Introduction
 
@@ -17,6 +17,9 @@ First, please list your:
 * Discord handle
 * Pronouns
 * Optional: website, portfolio, blog, etc
+
+> [!IMPORTANT]  
+> If you have not already said hello in one of the online community spaces, make sure you do so before the application deadline on March 31st. The recommended place to start is [this Discourse thread](https://discourse.processing.org/t/gsoc-2026-join-the-processing-foundation-as-a-summer-of-code-contributor/47450). Merged GitHub PRs are **not required**, and if you make Pull Requests on GitHub, ensure they follow contributor guidelines. PRs (and any other activity in online community spaces) that consistently ignore contribution and community guidelines can actually make your proposal less likely to succeed.
 
 ## Short bio
 
@@ -82,6 +85,12 @@ Very important - don't skip this!
 * Availability (your preferences do **NOT** affect chances of being selected, but some availability to connect with mentor(s) and other contributors is important)
   * Indicate which days/times you’d be able to meet for audio or video calls (such as over Zoom, Discord, or other platform). 
   * Any other preferences on communication style (e.g., written or calls)?
+
+# Good Luck!
+
+> [!TIP]
+> Recent GSoC contributors share what helped their applications stand out, and how they approached the process in this video: ["It's not a Competition": How to Apply for GSoC with the Processing Foundation](https://www.youtube.com/watch?v=aErm7uxswEI)
+
 
 
 
