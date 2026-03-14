@@ -1,5 +1,5 @@
 Please use this template to organize your GSoC application.
-You can use a editor of your choice.
+You can use an editor of your choice.
 Please **keep the section headings exaclty as they are**.
 Everything but the headings are notes, and you should replace these with your proposal materials!
 
@@ -86,7 +86,7 @@ Very important - don't skip this!
   * Indicate which days/times you’d be able to meet for audio or video calls (such as over Zoom, Discord, or other platform). 
   * Any other preferences on communication style (e.g., written or calls)?
 
-# Good Luck!
+# Good luck!
 
 > [!TIP]
 > Recent GSoC contributors share what helped their applications stand out, and how they approached the process in this video: ["It's not a Competition": How to Apply for GSoC with the Processing Foundation](https://www.youtube.com/watch?v=aErm7uxswEI)
