@@ -47,7 +47,7 @@ Be sure to answer **all** the below questions in your reflection:
 
 # Section 3: Proposed work
 
-This section should be about 5 pages, but it can vary.
+This section should be no more than 3 pages. Although you can add additional information in an appendix, we expect in this section a clear, thorough, and not overly verbose description of the proposed project.
 
 1. What problem does this project solve? Be specific and make sure there is more detail about this in the Research section.
 2. To describe how the project solves the problem, please be sure to address each of these areas:
