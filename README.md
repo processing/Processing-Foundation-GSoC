@@ -19,7 +19,7 @@ For more information, read the [Google Summer of Code FAQ](https://developers.go
 ## Discover previous GSoC projects at the Processing Foundation
 The Processing Foundation has participated in GSoC 13 times since 2011. We recommend you review some of these reports to gain valuable insights in the kind of projects we support. This will help you craft more effective proposals for this year's GSoC at the Processing Foundation.
 
-* [GSoC 2025 wrap-up post](../docs/wrapups/2011-gsoc-wrapup.md)
+* [GSoC 2025 wrap-up post](./docs/wrapups/2025-gsoc-wrapup.md)
 * [GSoC 2023 wrap-up post](https://medium.com/@ProcessingOrg/google-summer-of-code-2023-wrap-ups-961f73edcd1b)
 * [GSoC 2022 wrap-up post](https://medium.com/@ProcessingOrg/google-summer-of-code-2022-wrap-up-post-cb64caa840f0?source=rss------programming-5)
 * [GSoC 2021 wrap-up post](https://medium.com/processing-foundation/wrap-up-post-of-all-2021-google-summer-of-code-projects-d3bcb8713ebb)
