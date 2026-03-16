@@ -42,10 +42,10 @@ This section should be about 1 page.
 
 Be sure to answer **all** the below questions in your reflection:
 
-1. **Share a contribution in p5/processing you are most proud of. What did you learn?** Contributions include: active, helpful participation in online spaces; code (pull requests); bug reports and investigation; ideas; sketches shared in a public forum, like Discord, Discourse, your own blog, social media, etc. (No need to list everything - we will review your public GitHub, Discourse, and Discord activity. Here, we‘re interested in getting your reflections.)
-2. Share a p5/Processing sketch/project that you made that you are most satisfied with and why
-3. Share a p5/Processing sketch/project that someone else made that inspires you
-4. Share an open source project that you use regularly
+1. **Share a contribution in p5/processing you are most proud of. What did you learn?** Contributions include: active, helpful participation in online spaces; code (pull requests); bug reports and investigation; ideas; sketches shared in a public forum, like Discord, Discourse, your own blog, social media, etc. (No need to list everything - we will review your public GitHub, Discourse, and Discord activity. Here, we‘re interested in getting your reflections. But _include a link_ to the specific highlight described.)
+2. Share a p5/Processing sketch/project that you made that you are most satisfied with and why. _Include a link._
+3. Share a p5/Processing sketch/project that someone else made that inspires you. _Include a link._
+4. Share an open source project that you use regularly. _Include a link._
 5. In your words, what is most important to make open source accessible?
 
 # Section 3: Proposed work
