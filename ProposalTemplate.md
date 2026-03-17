@@ -3,6 +3,9 @@ You can use an editor of your choice.
 Please **keep the section headings exaclty as they are**.
 Everything but the headings are notes, and you should replace these with your proposal materials!
 
+> [!TIP]
+> You can check out the [example proposals](https://github.com/processing/Processing-Foundation-GSoC/tree/main/example_proposals) for inspiration, especially of how to present technical ideas, how to include research, and how to use screenshots/illustrations well.
+
 ***
 
 # Section 1: Introduction
