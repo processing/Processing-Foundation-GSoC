@@ -4,7 +4,7 @@ Please **keep the section headings exaclty as they are**.
 Everything but the headings are notes, and you should replace these with your proposal materials!
 
 > [!TIP]
-> You can check out the [example proposals](https://github.com/processing/Processing-Foundation-GSoC/tree/main/example_proposals) for inspiration, especially of how to present technical ideas, how to include research, and how to use screenshots/illustrations well.
+> You can check out the [example proposals](https://github.com/processing/Processing-Foundation-GSoC/tree/main/example_proposals) for inspiration, especially of how to present technical ideas, how to include research, and how to use screenshots/illustrations well. Recent GSoC contributors have also shared what helped their applications stand out, and how they approached the process in this video: ["It's not a Competition": How to Apply for GSoC with the Processing Foundation](https://www.youtube.com/watch?v=aErm7uxswEI)
 
 ***
 
@@ -89,15 +89,7 @@ Very important - don't skip this!
   * Indicate which days/times you’d be able to meet for audio or video calls (such as over Zoom, Discord, or other platform). 
   * Any other preferences on communication style (e.g., written or calls)?
 
-# Good luck!
-
-> [!TIP]
-> Recent GSoC contributors share what helped their applications stand out, and how they approached the process in this video: ["It's not a Competition": How to Apply for GSoC with the Processing Foundation](https://www.youtube.com/watch?v=aErm7uxswEI)
-
-
-
-
-
+# Good luck! 🌻
 
  
 
