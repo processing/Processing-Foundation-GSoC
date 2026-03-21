@@ -1,6 +1,6 @@
 Please use this template to organize your GSoC application.
 You can use an editor of your choice.
-Please **keep the section headings exaclty as they are**.
+Please **keep the section headings exactly as they are**.
 Everything but the headings are notes, and you should replace these with your proposal materials!
 
 > [!TIP]
