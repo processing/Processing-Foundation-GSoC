@@ -1,7 +1,7 @@
 
 # Processing-Foundation-GSoC
 
-This repository is a central hub for all resources, project ideas, and guidelines related to the Google Summer of Code (GSoC) program with Processing Foundation at the mentor organisation.
+This repository is a central hub for all resources, project ideas, and guidelines related to the Google Summer of Code (GSoC) program with Processing Foundation as the mentor organisation.
 
 🌸 Have questions about the organization or the projects? Check out the [Frequently Asked Questions (FAQs)](https://github.com/processing/Processing-Foundation-GSoC/wiki/FAQs-(2026)).
 
