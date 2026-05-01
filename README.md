@@ -7,7 +7,7 @@ This repository is a central hub for all resources, project ideas, and guideline
 
 ## 🎉 2026 Projects have been announced! 🌻
 
-You can follow this year's cohort [here](https://github.com/processing/Processing-Foundation-GSoC/blob/main/cohorts/2026.md).
+You can follow this year's cohort [here](./cohorts/2026.md).
 
 Applications are closed; for 2027, please wait for announcements, because the process requires us to apply as a mentor organization first.
 
@@ -30,7 +30,7 @@ This year is the **fourteenth year** that Processing Foundation participates GSo
 > [!NOTE]
 > So far, 115 projects have been completed as part of GSoC with Processing Foundation 🎉
 
-* [GSoC 2026 cohort (ongoing)](./docs/wrapups/2026.md)
+* [GSoC 2026 cohort (current)](./cohorts/2026.md)
 * [GSoC 2025 wrap-up post](./docs/wrapups/2025-gsoc-wrapup.md)
 * [GSoC 2023 wrap-up post](./docs/wrapups/2023-gsoc-wrapup.md)
 * [GSoC 2022 wrap-up post](./docs/wrapups/2022-gsoc-wrapup.md)
