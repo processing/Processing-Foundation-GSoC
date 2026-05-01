@@ -3,12 +3,7 @@
 
 This repository is a central hub for all resources, project ideas, and guidelines related to the Google Summer of Code (GSoC) program with Processing Foundation as the mentor organisation.
 
-🌸 Have questions about the organization or the projects? Check out the [Frequently Asked Questions (FAQs)](https://github.com/processing/Processing-Foundation-GSoC/wiki/FAQs-(2026)).
 
-🌸 Have more questions? Checj the [GSoC 2026 Discourse thread](https://discourse.processing.org/t/updates-about-gsoc-2026-org-application-in-progress/47450)!
-
-> [!IMPORTANT]  
-> Pull Requests submitted to this repository will most likely be closed if they are made by anyone who is not a GSoC Processing Foundation mentor, org admin, contributor, or alumn. Thank you for understanding!
 
 ## 🎉 2026 Projects have been announced! 🌻
 
@@ -22,12 +17,20 @@ The [deadlines for GSoC 2026](https://opensource.googleblog.com/2025/12/shape-fu
 
 For more information, read the [Google Summer of Code FAQ](https://developers.google.com/open-source/gsoc/faq).
 
+🌸 Have questions about the organization or the projects? Check out the [Frequently Asked Questions (FAQs)](https://github.com/processing/Processing-Foundation-GSoC/wiki/FAQs-(2026)).
+
+🌸 Have more questions? Check the [GSoC 2026 Discourse thread](https://discourse.processing.org/t/updates-about-gsoc-2026-org-application-in-progress/47450)!
+
+> [!IMPORTANT]  
+> Pull Requests submitted to this repository will most likely be closed if they are made by anyone who is not a GSoC Processing Foundation mentor, org admin, contributor, or alumn. Thank you for understanding!
+
 ## Discover previous GSoC projects at the Processing Foundation
 This year is the **fourteenth year** that Processing Foundation participates GSoC! We recommend you review some of these reports to gain valuable insights in the kind of projects we support. This will help you craft more effective proposals for this year's GSoC at the Processing Foundation.
 
 > [!NOTE]
 > So far, 115 projects have been completed as part of GSoC with Processing Foundation 🎉
 
+* [GSoC 2026 cohort (ongoing)](./docs/wrapups/2026.md)
 * [GSoC 2025 wrap-up post](./docs/wrapups/2025-gsoc-wrapup.md)
 * [GSoC 2023 wrap-up post](./docs/wrapups/2023-gsoc-wrapup.md)
 * [GSoC 2022 wrap-up post](./docs/wrapups/2022-gsoc-wrapup.md)
