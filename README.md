@@ -10,6 +10,12 @@ This repository is a central hub for all resources, project ideas, and guideline
 > [!IMPORTANT]  
 > Pull Requests submitted to this repository will most likely be closed if they are made by anyone who is not a GSoC Processing Foundation mentor, org admin, contributor, or alumn. Thank you for understanding!
 
+## 🎉 2026 Projects have been announced! 🌻
+
+You can follow this year's cohort [here](https://github.com/processing/Processing-Foundation-GSoC/blob/main/cohorts/2026.md).
+
+Applications are closed; for 2027, please wait for announcements, because the process requires us to apply as a mentor organization first.
+
 ## How to Apply as a Student/Contributor for GSoC 2026
 
 The [deadlines for GSoC 2026](https://opensource.googleblog.com/2025/12/shape-future-with-google-summer-of-code.html) have been announced, and Processing Foundation has been accepted as a mentor org 🎉 The applications will open on March 15th; for now, contributor applications are **not** open yet, but you can already get started. Here is the [2026 project ideas list](https://github.com/processing/Processing-Foundation-GSoC/wiki/Project-Ideas-List-(GSoC-2026))—the rest of the wiki is also a very useful resource to look through! [Stay tuned on Discourse!](https://discourse.processing.org/t/updates-about-gsoc-2026-org-application-in-progress/47450)
