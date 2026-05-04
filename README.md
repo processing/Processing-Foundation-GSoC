@@ -3,14 +3,13 @@
 
 This repository is a central hub for all resources, project ideas, and guidelines related to the Google Summer of Code (GSoC) program with Processing Foundation as the mentor organisation.
 
-
-
 ## 🎉 2026 Projects have been announced! 🌻
 
 You can follow this year's cohort [here](./cohorts/2026.md).
 
 Applications are closed; for 2027, please wait for announcements, because the process requires us to apply as a mentor organization first.
 
+<!--
 ## How to Apply as a Student/Contributor for GSoC 2026
 
 The [deadlines for GSoC 2026](https://opensource.googleblog.com/2025/12/shape-future-with-google-summer-of-code.html) have been announced, and Processing Foundation has been accepted as a mentor org 🎉 The applications will open on March 15th; for now, contributor applications are **not** open yet, but you can already get started. Here is the [2026 project ideas list](https://github.com/processing/Processing-Foundation-GSoC/wiki/Project-Ideas-List-(GSoC-2026))—the rest of the wiki is also a very useful resource to look through! [Stay tuned on Discourse!](https://discourse.processing.org/t/updates-about-gsoc-2026-org-application-in-progress/47450)
@@ -23,8 +22,9 @@ For more information, read the [Google Summer of Code FAQ](https://developers.go
 
 > [!IMPORTANT]  
 > Pull Requests submitted to this repository will most likely be closed if they are made by anyone who is not a GSoC Processing Foundation mentor, org admin, contributor, or alumn. Thank you for understanding!
+-->
 
-## Discover previous GSoC projects at the Processing Foundation
+## 14 years of GSoC projects at the Processing Foundation
 This year is the **fourteenth year** that Processing Foundation participates GSoC! We recommend you review some of these reports to gain valuable insights in the kind of projects we support. This will help you craft more effective proposals for this year's GSoC at the Processing Foundation.
 
 > [!NOTE]
