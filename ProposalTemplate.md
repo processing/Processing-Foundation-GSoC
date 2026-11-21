@@ -50,6 +50,9 @@ Be sure to answer **all** the below questions in your reflection:
 3. Share a p5/Processing sketch/project that someone else made that inspires you. _Include a link._
 4. Share an open source project that you use regularly. _Include a link._
 5. In your words, what is most important to make open source accessible?
+6. Describe a specific moment p5/Processing confused or frustrated you, and what you did.
+7. Name one file or function in the codebase you read for this project and what surprised you.
+8. Which reference page, example or docs section would you improve, and how?
 
 # Section 3: Proposed work
 
